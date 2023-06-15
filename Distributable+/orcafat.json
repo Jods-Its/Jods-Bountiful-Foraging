@@ -1,0 +1,38 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OrcaFat",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OrcaFatDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvMeatLarge",
+                                "PutBackAudio" : "Play_SndInvMeatLarge",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [90, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModScentBehaviour" : {
+                            "ScentCategory" : "QUARTER"
+                          },
+    "ModAccelerantBehaviour": {
+                                "DestroyedOnUse" : true,
+                                "DurationOffset" : 0,
+                                "SuccessModifier" : 40
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingMeatLarge",
+                                "Minutes" : 20,
+                                "YieldCounts" : [1, 4],
+                                "YieldNames" : ["GEAR_FuelOrca", "GEAR_FatRaw"],
+                                "RequiredToolNames" : []
+                            }							
+}
