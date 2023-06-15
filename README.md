@@ -45,3 +45,5 @@ For any doubt, question or technical support you might need, contact me throught
 Original orca models were made by [NeuroDolphin](https://sketchfab.com/labmonkey), ravaged edits and texture adaptation by me.
 
 CandleLight mod was made by [DigitalZombie](https://github.com/DigitalzombieTLD).
+
+Huge thanks to [TheKillerGreece](https://github.com/Thekillergreece) for helping and feedback.
