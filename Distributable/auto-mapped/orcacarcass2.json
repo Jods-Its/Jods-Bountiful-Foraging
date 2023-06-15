@@ -1,0 +1,38 @@
+{
+    "ModBodyHarvestComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OrcaCarcass2",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OrcaCarcass2Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 30,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "CanCarry" : false,
+                                "HarvestAudio" : "",
+                                "GutPrefab" : "GEAR_Gut",
+                                "GutQuantity" : 1,
+                                "GutWeightKgPerUnit" : 0.15,
+                                "HidePrefab" : "GEAR_CrowFeather",
+                                "HideQuantity" : 1,
+                                "HideWeightKgPerUnit" : 0.01,
+                                "MeatPrefab" : "GEAR_RawMeatRabbit",
+                                "MeatAvailableMinKG" : 0.1,
+                                "MeatAvailableMaxKG" : 0.5
+                            },
+    "ModScentBehaviour" : {
+                            "ScentCategory" : "QUARTER"
+                          }									
+}

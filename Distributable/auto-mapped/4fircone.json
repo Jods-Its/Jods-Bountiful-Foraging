@@ -1,0 +1,37 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_4FirCone",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_4FirConeDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvPlantAcorns",
+                                "PutBackAudio" : "Play_SndInvPlantAcorns",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [90, 0, 0],
+                                "InspectOffset" : [0, -0.05, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 10,
+                                "YieldCounts" : [1,2],
+                                "YieldNames" : ["GEAR_1FirConeFuel", "GEAR_3FirConeSeeds"],
+                                "RequiredToolNames" : []
+                            },							
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_4FirConeSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_4FirConeMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

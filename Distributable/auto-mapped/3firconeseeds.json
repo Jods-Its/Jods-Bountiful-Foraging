@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_3FirConeSeeds",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_3FirConeSeedsDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.05,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvPlantAcorns",
+                            "PutBackAudio" : "Play_SndInvPlantAcorns",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, 0, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.0,
+                            "CookingResult" : "GEAR_2FirConeSeedsRoasted",
+                            "BurntMinutes" : 10,
+                            "Type" : "Meat",
+                            "CookingAudio" : "Play_FryingLight",
+                            "StartCookingAudio" : "Play_SndInvPlantAcorns"
+                        },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_3FirConeSeedsSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_3FirConeSeedsMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }
+}

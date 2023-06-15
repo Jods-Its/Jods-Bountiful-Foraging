@@ -1,0 +1,38 @@
+{
+    "ModBodyHarvestComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OrcaQuarter",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OrcaQuarterDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 10.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvMeatLarge",
+                                "PutBackAudio" : "Play_SndInvMeatLarge",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.8, 0.8, 0.8],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "CanCarry" : false,
+                                "HarvestAudio" : "Play_HarvestingMeatLarge",
+                                "GutPrefab" : "GEAR_Gut",
+                                "GutQuantity" : 2,
+                                "GutWeightKgPerUnit" : 0.15,
+                                "HidePrefab" : "GEAR_OrcaFat",
+                                "HideQuantity" : 1,
+                                "HideWeightKgPerUnit" : 2.0,
+                                "MeatPrefab" : "GEAR_OrcaMeatRaw",
+                                "MeatAvailableMinKG" : 1.0,
+                                "MeatAvailableMaxKG" : 8.0
+                            },
+	"ModScentBehaviour" : {
+                            "ScentCategory" : "QUARTER"
+                          }									
+}    

@@ -1,0 +1,75 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_BirdEggRaw",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_BirdEggRawDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.1,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvPlantMedium",
+                            "PutBackAudio" : "Play_SndInvPlantMedium",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [-90, 0, 0],
+                            "InspectOffset" : [0, -0.05, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 10,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.5,
+                            "CookingResult" : "GEAR_BirdEggBoiled",
+                            "BurntMinutes" : 10,
+                            "Type" : "Grub",
+                            "CookingAudio" : "Play_BoilingLight",
+                            "StartCookingAudio" : "Play_AddSlopToPot",
+
+                            "DaysToDecayOutdoors" : 40,
+                            "DaysToDecayIndoors" : 10,
+                            "Calories" : 150,
+                            "Servings" : 1,
+                            "EatingTime" : 3,
+                            "EatingAudio" : "Play_EatingMeat",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -1,
+
+                            "FoodPoisoning" : 60,
+                            "FoodPoisoningLowCondition" : 100,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : true,
+                            "Drink" : false,
+                            "Meat" : true,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

@@ -1,0 +1,83 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_SaltedMeatBird",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_SaltedMeatBirdDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.3,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvMeatSmall",
+                            "PutBackAudio" : "Play_SndInvMeatSmall",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, 0, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 15,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Meat",
+                            "CookingAudio" : "Play_FryingLight",
+                            "StartCookingAudio" : "Play_FryingLight",
+
+                            "DaysToDecayOutdoors" : 40,
+                            "DaysToDecayIndoors" : 20,
+                            "Calories" : 150,
+                            "Servings" : 1,
+                            "EatingTime" : 3,
+                            "EatingAudio" : "Play_EatingMeat",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -10,
+
+                            "FoodPoisoning" : 60,
+                            "FoodPoisoningLowCondition" : 100,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : true,
+                            "Drink" : false,
+                            "Meat" : true,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_CuredMeatBird",
+                            "EvolveHours" : 24,
+                            "IndoorsOnly" : true
+                        },
+    "ModScentBehaviour" : {
+                            "ScentCategory" : "RAW_MEAT"
+                          }						
+}

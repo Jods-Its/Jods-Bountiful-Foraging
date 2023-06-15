@@ -1,0 +1,28 @@
+{
+    "ModLiquidComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_FuelOrca",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_FuelOrcaDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvLighterFluid",
+                                "PutBackAudio" : "Play_SndInvLighterFluid",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+								"InspectDistance" : 0.7,
+								"InspectAngles" : [0, 180, 0],
+                                "InspectOffset" : [0, -0.1, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "LiquidType" : "Kerosene",
+                                "LiquidCapacityLiters" : 1.0,
+                                "RandomizedQuantity" : true,
+                                "LiquidLiters" : 0.75
+                            }
+}							

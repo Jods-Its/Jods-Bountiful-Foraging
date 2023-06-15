@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_NestEmpty",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_NestEmptyDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvWoodLight",
+                                "PutBackAudio" : "Play_SndInvWoodLight",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_BreakdownWoodBranches",
+                                "Minutes" : 5,
+                                "YieldCounts" : [10],
+                                "YieldNames" : ["GEAR_Stick"],
+                                "RequiredToolNames" : []
+                            }							
+}

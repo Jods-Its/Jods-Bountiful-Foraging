@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_BeeHive",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_BeeHiveDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvPlantMedium",
+                                "PutBackAudio" : "Play_SndInvPlantMedium",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.2,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.35, 0],
+                                "InspectScale" :  [0.8, 0.8, 0.8],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingMeatlSmall",
+                                "Minutes" : 30,
+                                "YieldCounts" : [1,2],
+                                "YieldNames" : ["GEAR_BeeHarvestedHoney", "GEAR_Tinder"],
+                                "RequiredToolNames" : []
+                            }
+}						

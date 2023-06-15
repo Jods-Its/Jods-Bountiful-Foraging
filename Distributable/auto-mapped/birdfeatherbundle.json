@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_BirdFeatherBundle",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_BirdFeatherBundleDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvFeather",
+                                "PutBackAudio" : "Play_SndInvFeather",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 5,
+                                "YieldCounts" : [10],
+                                "YieldNames" : ["GEAR_CrowFeather"],
+                                "RequiredToolNames" : []
+                            }							
+}
