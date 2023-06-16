@@ -19,8 +19,8 @@
 > New sources like carcasses, beehives or bird nests will spawn in the world. Explore Great Bear to find them.
 
 ## Installation
-* Download latest Bountiful_Foraging.rar file in [releases](https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases), unzip, drop both .modcomponent and .dll files in the mod foldser and enjoy!
-* For [CandleLight](https://github.com/DigitalzombieTLD/Candlelight/) lovers, do the same as instructed above, but with the latest Bountiful_Foraging+.rar.
+* Download latest Bountiful_Foraging.zip file in [releases](https://github.com/Jods-Its/Jods-Bountiful-Foraging/releases), unzip, drop both .modcomponent and .dll files in the mod foldser and enjoy!
+* For [CandleLight](https://github.com/DigitalzombieTLD/Candlelight/) lovers, do the same as instructed above, but with the latest Bountiful_Foraging+.zip.
 * Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
 
 ## Contents 
