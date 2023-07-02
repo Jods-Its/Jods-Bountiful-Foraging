@@ -34,6 +34,16 @@
 * Find Halite (Salt rock) in coastal mines and caves. Crush halite with a hammer to obtain salt.
 * All meats now have a "salt" button. If you have enough salt, you can salt the meat. Leave the meat indoors for a day and it will cure. Cured meat last twice as long as its cooked counterpart.
 
+**V.1.1.0:**
+* Frontier Comforts' salt is now compatible with salting system. Salting system will always pick crushed halite over salt.
+* Ptarmigan meat can now be salted.
+* You can now turn crushed halite into salt.
+* You can now craft fir seeds bundles to cook them in batches.
+* Halite chunks are rarer now, but little halite pieces will appear now in caves (renewable).
+* Coal chunks can now appear in some mines and caves. Break them to get several coal pieces.
+* 2 new rare secret decorative items that spawn in the wild. I want screenshots if you find one :wink: 
+* Crow carcasses, fir cones and halite pieces spawn % can be tweaked via ModSettings.
+
 * For CandleLight users, Bountiful Foraging+ let you obtain fat from orca blubber and wax from bee hives.
 
 ## Troubleshooting
@@ -47,6 +57,8 @@ Original orca models were made by [NeuroDolphin](https://sketchfab.com/labmonkey
 CandleLight mod was made by [DigitalZombie](https://github.com/DigitalzombieTLD).
 
 Huge thanks to [TheKillerGreece](https://github.com/Thekillergreece) for helping and feedback.
+
+German Localization by Himbraut.
 
 ## Videos
 
