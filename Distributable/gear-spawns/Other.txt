@@ -1,0 +1,31 @@
+scene=FarmHouseA
+item=GEAR_BeeHarvestedHoney p=-3.1390,0.2329,7.4407 r=0.0000,348.9963,0.0000 c=80
+item=GEAR_BirdEggBoiled p=-1.0013,1.1434,9.4015 r=-0.0000,8.0378,-0.0000 c=50
+item=GEAR_BirdMeatCooked p=-1.0644,1.1428,9.2915 r=0.0000,233.5054,0.0000 c=50
+scene=FarmHouseABasement
+item=GEAR_BeeHarvestedHoney p=4.4510,0.3805,-8.7260 r=0.0000,354.5697,0.0000 c=100
+item=GEAR_BeeHarvestedHoney p=4.2891,0.3805,-8.6049 r=0.0000,207.2637,0.0000 c=80
+item=GEAR_BeeHarvestedHoney p=4.4601,0.3805,-8.6067 r=-0.0000,155.9992,-0.0000 c=60
+scene=HuntingLodgeA
+item=GEAR_BeeHarvestedHoney p=-10.2936,0.0645,2.8919 r=-0.0000,2.4310,-0.0000 c=50
+item=GEAR_BeeHarvestedHoney p=0.5267,-3.5520,0.2438 r=0.0000,333.1865,0.0000 c=100
+item=GEAR_BeeHarvestedHoney p=0.3409,-3.5753,0.3568 r=0.0000,243.5208,0.0000 c=80
+item=GEAR_BeeHarvestedHoney p=0.5148,-3.5743,0.5270 r=0.0000,300.7105,0.0000 c=760
+item=GEAR_BirdMeatCooked p=3.5979,0.9982,0.3247 r=0.0000,211.8396,0.0000 c=50
+item=GEAR_BirdEggBoiled p=3.5535,0.9987,0.2009 r=-0.0000,13.2640,-0.0000 c=50
+scene=FarmHouseB
+item=GEAR_BeeHarvestedHoney p=-1.6334,0.3062,2.9823 r=0.0000,202.6053,0.0000 c=100
+item=GEAR_BeeHarvestedHoney p=-1.6923,0.3462,3.1582 r=-0.0000,215.3136,270.0000 c=80
+item=GEAR_BeeHarvestedHoney p=-1.7595,0.3062,3.0328 r=-0.0000,10.3359,-0.0000 c=60
+item=GEAR_BirdEggBoiled p=3.4539,1.2495,5.3749 r=-0.0000,39.3933,-0.0000 c=50
+item=GEAR_BirdMeatRaw p=-2.1808,0.1927,6.0145 r=0.0000,283.5901,0.0000 c=50
+scene=GreyMothersHouseA
+item=GEAR_BeeHarvestedHoney p=3.5358,4.6564,-0.4418 r=-0.0000,26.1902,90.0000 c=60
+item=GEAR_BeeHarvestedHoney p=3.5454,4.6164,-0.3510 r=-0.0000,77.0651,-0.0000 c=50
+scene=HuntingLodgeA
+item=GEAR_BeeHarvestedHoney p=-10.2936,0.0645,2.8919 r=-0.0000,2.4310,-0.0000 c=50
+item=GEAR_BeeHarvestedHoney p=0.5267,-3.5520,0.2438 r=0.0000,333.1865,0.0000 c=100
+item=GEAR_BeeHarvestedHoney p=0.3409,-3.5753,0.3568 r=0.0000,243.5208,0.0000 c=80
+item=GEAR_BeeHarvestedHoney p=0.5148,-3.5743,0.5270 r=0.0000,300.7105,0.0000 c=60
+item=GEAR_BirdMeatCooked p=3.5979,0.9982,0.3247 r=0.0000,211.8396,0.0000 c=50
+item=GEAR_BirdEggBoiled p=3.5535,0.9987,0.2009 r=-0.0000,13.2640,-0.0000 c=50
