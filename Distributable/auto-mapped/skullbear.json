@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_SkullBear",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_SkullBearDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 5.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.5,
+                                "InspectAngles" : [0, 180, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+							}
+}

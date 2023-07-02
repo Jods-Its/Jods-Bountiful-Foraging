@@ -1,9 +1,9 @@
 {
     "ModCookableComponent" : {
-                            "DisplayNameLocalizationId" : "GAMEPLAY_3FirConeSeeds",
-                            "DescriptionLocalizatonId" : "GAMEPLAY_3FirConeSeedsDescription",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_2FirSeedBunch",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_2FirSeedBunchDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.02,
+                            "WeightKG": 0.25,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Perfect",
@@ -24,7 +24,7 @@
                             "CookingMinutes" : 8,
                             "CookingUnitsRequired" : 1,
                             "CookingWaterRequired" : 0.0,
-                            "CookingResult" : "GEAR_2FirConeSeedsRoasted",
+                            "CookingResult" : "GEAR_1FirSeedBunchRoasted",
                             "BurntMinutes" : 10,
                             "Type" : "Meat",
                             "CookingAudio" : "Play_FryingLight",

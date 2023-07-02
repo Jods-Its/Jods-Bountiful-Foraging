@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_SkullStag",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_SkullStagDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 3.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.5,
+                                "InspectAngles" : [0, 180, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+							}
+}

@@ -1,20 +1,20 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "GAMEPLAY_SaltedMeatOrca",
-                            "DescriptionLocalizatonId" : "GAMEPLAY_SaltedMeatOrcaDescription",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_CuredMeatPtarmigan",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_CuredMeatPtarmiganDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 1.0,
                             "DaysToDecay" : 0,
                             "MaxHP" : 5,
                             "InitialCondition" : "Perfect",
                             "InventoryCategory" : "Food",
-                            "PickUpAudio" : "Play_SndInvMeatLarge",
-                            "PutBackAudio" : "Play_SndInvMeatLarge",
+                            "PickUpAudio" : "Play_SndInvMeatSmall",
+                            "PutBackAudio" : "Play_SndInvMeatSmall",
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 1.0,
-                            "InspectAngles" : [90, 0, 0],
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [0, 0, 0],
                             "InspectOffset" : [0, 0, 0],
                             "InspectScale" :  [1, 1, 1],
                             "NormalModel" : "",
@@ -30,21 +30,21 @@
                             "CookingAudio" : "Play_FryingLight",
                             "StartCookingAudio" : "Play_FryingLight",
 
-                            "DaysToDecayOutdoors" : 90,
-                            "DaysToDecayIndoors" : 30,
-                            "Calories" : 1000,
+                            "DaysToDecayOutdoors" : 180,
+                            "DaysToDecayIndoors" : 180,
+                            "Calories" : 500,
                             "Servings" : 1,
-                            "EatingTime" : 6,
+                            "EatingTime" : 3,
                             "EatingAudio" : "Play_EatingMeat",
                             "EatingPackagedAudio" : "",
-                            "ThirstEffect" : -25,
+                            "ThirstEffect" : -10,
 
-                            "FoodPoisoning" : 60,
-                            "FoodPoisoningLowCondition" : 100,
-                            "ParasiteRiskIncrements" : [2.0, 3.0, 5.0],
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 35,
+                            "ParasiteRiskIncrements" : [],
 
                             "Natural" : true,
-                            "Raw" : true,
+                            "Raw" : false,
                             "Drink" : false,
                             "Meat" : true,
                             "Fish" : false,
@@ -72,12 +72,7 @@
                             "AlcoholPercentage" : 0,
                             "AlcoholUptakeMinutes" : 45
                         },
-    "ModEvolveBehaviour" : {
-                            "TargetItemName" : "GEAR_CuredMeatOrca",
-                            "EvolveHours" : 24,
-                            "IndoorsOnly" : true
-                        },
     "ModScentBehaviour" : {
-                            "ScentCategory" : "RAW_MEAT"
-                          }						
+                            "ScentCategory" : "COOKED_MEAT"
+                          }								
 }

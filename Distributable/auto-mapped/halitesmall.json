@@ -1,37 +1,37 @@
 {
     "ModGenericComponent": {
-                                "DisplayNameLocalizationId" : "GAMEPLAY_4FirCone",
-                                "DescriptionLocalizatonId" : "GAMEPLAY_4FirConeDescription",
+                                "DisplayNameLocalizationId" : "GAMEPLAY_HaliteSmall",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_HaliteSmallDescription",
                                 "InventoryActionLocalizationId" : "",
                                 "WeightKG": 0.1,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
                                 "InventoryCategory" : "Material",
-                                "PickUpAudio" : "Play_SndInvPlantAcorns",
-                                "PutBackAudio" : "Play_SndInvPlantAcorns",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
                                 "StowAudio" : "Play_InventoryStow",
                                 "WornOutAudio" : "",
                                 "InspectOnPickup" : true,
-                                "InspectDistance" : 0.4,
-                                "InspectAngles" : [90, 0, 0],
-                                "InspectOffset" : [0, -0.05, 0],
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
                                 "InspectScale" :  [1, 1, 1],
                                 "NormalModel" : "",
                                 "InspectModel" : ""
                             },
     "ModHarvestableBehaviour": {
-                                "Audio" : "PLAY_CRAFTINGACORNSSHELLING",
+                                "Audio" : "Play_RockCache",
                                 "Minutes" : 10,
-                                "YieldCounts" : [1,2],
-                                "YieldNames" : ["GEAR_1FirConeFuel", "GEAR_3FirConeSeeds"],
-                                "RequiredToolNames" : []
-                            },							
+                                "YieldCounts" : [1],
+                                "YieldNames" : ["GEAR_CrushedHalite"],
+                                "RequiredToolNames" : ["GEAR_Hammer"]
+                            },
     "ModStackableBehaviour": {
-                                "SingleUnitTextId" : "GAMEPLAY_4FirConeSingle",
-                                "MultipleUnitTextId" : "GAMEPLAY_4FirConeMultiple",
+                                "SingleUnitTextId" : "GAMEPLAY_HaliteSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HaliteMultiple",
                                 "StackSprite" : "",
                                 "UnitsPerItem" : 1,
                                 "ChanceFull" : 100
-                             }
+                             }								
 }

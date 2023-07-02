@@ -5,7 +5,7 @@
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 1.0,
                             "DaysToDecay" : 0,
-                            "MaxHP" : 100,
+                            "MaxHP" : 5,
                             "InitialCondition" : "Perfect",
                             "InventoryCategory" : "Food",
                             "PickUpAudio" : "Play_SndInvMeatSmall",
@@ -31,7 +31,7 @@
                             "StartCookingAudio" : "Play_FryingLight",
 
                             "DaysToDecayOutdoors" : 160,
-                            "DaysToDecayIndoors" : 20,
+                            "DaysToDecayIndoors" : 160,
                             "Calories" : 450,
                             "Servings" : 1,
                             "EatingTime" : 5,

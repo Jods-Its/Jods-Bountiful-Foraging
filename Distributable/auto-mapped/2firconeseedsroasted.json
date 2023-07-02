@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_2FirConeSeedsRoasted",
                             "DescriptionLocalizatonId" : "GAMEPLAY_2FirConeSeedsRoastedDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.05,
+                            "WeightKG": 0.02,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Perfect",

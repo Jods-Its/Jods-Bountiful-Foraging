@@ -1,0 +1,37 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_CoalChunk",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_CoalChunkDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvStoneSmall",
+                                "PutBackAudio" : "Play_SndInvStoneSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.8, 0.8, 0.8],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_RockCache",
+                                "Minutes" : 30,
+                                "YieldCounts" : [3],
+                                "YieldNames" : ["GEAR_Coal"],
+                                "RequiredToolNames" : ["GEAR_Hammer"]
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_HaliteSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_HaliteMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }								
+}

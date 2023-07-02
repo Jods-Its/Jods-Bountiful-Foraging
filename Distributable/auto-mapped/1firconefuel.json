@@ -3,7 +3,7 @@
                                 "DisplayNameLocalizationId" : "GAMEPLAY_1FirConeFuel",
                                 "DescriptionLocalizatonId" : "GAMEPLAY_1FirConeFuelDescription",
                                 "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.1,
+                                "WeightKG": 0.05,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
@@ -21,7 +21,7 @@
                                 "InspectModel" : ""
                             },
     "ModBurnableBehaviour": {
-                                "BurningMinutes" : 30,
+                                "BurningMinutes" : 10,
                                 "BurningMinutesBeforeAllowedToAdd" : 0,
                                 "SuccessModifier" : 35,
                                 "TempIncrease" : 1,

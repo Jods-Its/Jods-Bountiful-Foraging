@@ -1,0 +1,563 @@
+{
+    "GAMEPLAY_CrowCarcass" : {
+                            "English" : "Crow Carcass",
+							"Spanish (Spain)" : "Cadáver de cuervo",
+                            "German" :  "Krähenkadaver"
+    },
+    "GAMEPLAY_CrowCarcassDescription" : {
+                            "English" : "The carcass of a crow. Can be harvested but... is that really a good idea?",
+							"Spanish (Spain)" : "El cadáver de un cuervo. Se puede sacar algo de él pero...¿Realmente es una buena idea?.",
+                            "German" : "Der Kadaver einer Krähe. Kann zerlegt werden... aber ist das wirklich eine gute Idee?"
+
+    },
+    "GAMEPLAY_BirdMeatRaw" : {
+                            "English" : "Crow Meat",
+							"Spanish (Spain)" : "Carne de cuervo",
+                            "German" :  "Krähenfleisch"
+
+    },
+    "GAMEPLAY_BirdMeatRawDescription" : {
+                            "English" : "Meat harvested from a crow. Not precisely a four course meal, and not very pleasant, but it's food. Don't eat it raw.",
+							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. No te lo comas crudo.",
+                            "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Nicht roh essen."
+
+    },
+    "GAMEPLAY_BirdMeatCooked" : {
+                            "English" : "Roasted Crow Meat",
+							"Spanish (Spain)" : "Carne de cuervo asada",
+                            "German" :  "Gebratenes Krähenfleisch"
+    },
+    "GAMEPLAY_BirdMeatCookedDescription" : {
+                            "English" : "Meat harvested from a crow. Not precisely a four course meal, and not very pleasant, but it's food. Looks like chicken if you don't think much about it.",
+							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. Parece pollo, si no lo piensas demasaido..",
+                            "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Sieht aus wie Hühnchen, wenn man nicht viel darüber nachdenkt."
+
+    },
+    "GAMEPLAY_SaltedMeatBird" : {
+                            "English" : "Salted Crow Meat",
+							"Spanish (Spain)" : "Carne de cuervo salada",
+                            "German" :  "Gesalzenes Krähenfleisch"
+    },
+    "GAMEPLAY_SaltedMeatBirdDescription" : {
+                            "English" : "Meat harvested from a crow, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un cuervo, salada para secarse.",
+                            "German" :  "Fleisch von einer Krähe, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatBird" : {
+                            "English" : "Cured Crow Meat",
+							"Spanish (Spain)" : "Carne de cuervo curada",
+                            "German" :  "Getrocknetes Krähenfleisch"
+    },
+    "GAMEPLAY_CuredMeatBirdDescription" : {
+                            "English" : "Meat harvested from a crow, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un cuervo, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einer Krähe, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+    "GAMEPLAY_SaltedMeatRabbit" : {
+                            "English" : "Salted Rabbit Meat",
+							"Spanish (Spain)" : "Carne de conejo salada",
+                            "German" :  "Gesalzenes Kaninchenfleisch"
+    },
+    "GAMEPLAY_SaltedMeatRabbitDescription" : {
+                            "English" : "Meat harvested from a rabbit, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un conejo, salada para secarse.",
+                            "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatRabbit" : {
+                            "English" : "Cured Rabbit Meat",
+							"Spanish (Spain)" : "Carne de conejo curada",
+                            "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatRabbitDescription" : {
+                            "English" : "Meat harvested from a rabbit, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un conejo, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Kaninchen, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+    "GAMEPLAY_SaltedMeatVenison" : {
+                            "English" : "Salted Venison Meat",
+							"Spanish (Spain)" : "Carne de venado salada",
+                            "German" :  "Gesalzenes Wildfleisch"
+    },
+    "GAMEPLAY_SaltedMeatVenisonDescription" : {
+                            "English" : "Meat harvested from a deer or doe, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un venado, salada para secarse.",
+                            "German" :  "Fleisch von einem Hirsch oder Reh, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatVenison" : {
+                            "English" : "Cured Venison Meat",
+							"Spanish (Spain)" : "Carne de venado curada",
+                            "German" :  "Getrocknetes Wildfleisch"
+    },
+    "GAMEPLAY_CuredMeatVenisonDescription" : {
+                            "English" : "Meat harvested from a deer or doe, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un venado, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Hirsch oder Reh, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+    "GAMEPLAY_SaltedMeatMoose" : {
+                            "English" : "Salted Moose Meat",
+							"Spanish (Spain)" : "Carne de alce salada",
+                            "German" : "Gesalzenes Elchfleisch"
+    },
+    "GAMEPLAY_SaltedMeatMooseDescription" : {
+                            "English" : "Meat harvested from a moose, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un alce, salada para secarse.",
+                            "German" :  "Fleisch von einem Elch, gesalzen um zu trocknen"
+    },
+    "GAMEPLAY_CuredMeatMoose" : {
+                            "English" : "Cured Moose Meat",
+							"Spanish (Spain)" : "Carne de alce curada",
+                            "German" :  "Getrocknetes Elchfleisch"
+    },
+    "GAMEPLAY_CuredMeatMooseDescription" : {
+                            "English" : "Meat harvested from a moose, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un alce, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Elch, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+    "GAMEPLAY_SaltedMeatBear" : {
+                            "English" : "Salted Bear Meat",
+							"Spanish (Spain)" : "Carne de oso salada",
+                            "German" :  "Gesalzenes Bärenfleisch"
+    },
+    "GAMEPLAY_SaltedMeatBearDescription" : {
+                            "English" : "Meat harvested from a bear, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un oso, salada para secarse.",
+                            "German" :  "Fleisch von einem Bären, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatBear" : {
+                            "English" : "Cured Bear Meat",
+							"Spanish (Spain)" : "Carne de oso curada",
+                            "German" :  "Getrocknetes Bärenfleisch"
+    },
+    "GAMEPLAY_CuredMeatBearDescription" : {
+                            "English" : "Meat harvested from a bear, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un oso, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Bären, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+    "GAMEPLAY_SaltedMeatWolf" : {
+                            "English" : "Salted Wolf Meat",
+							"Spanish (Spain)" : "Carne de lobo salada",
+                            "German" :  "Gesalzenes Wolfsfleisch"
+    },
+    "GAMEPLAY_SaltedMeatWolfDescription" : {
+                            "English" : "Meat harvested from a wolf, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un lobo, salada para secarse.",
+                            "German" :  "Fleisch von einem Wolf, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatWolf" : {
+                            "English" : "Cured Wolf Meat",
+							"Spanish (Spain)" : "Carne de lobo curada",
+                            "German":  "Getrocknetes Wolfsfleisch"
+    },
+    "GAMEPLAY_CuredMeatWolfDescription" : {
+                            "English" : "Meat harvested from a wolf, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un lobo, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Wolf, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+	"GAMEPLAY_SaltedMeatPtarmigan" : {
+                            "English" : "Salted Ptarmigan Meat",
+							"Spanish (Spain)" : "Carne de tarmigán salada",
+                            "German" :  "Gesalzenes Schneehuhnfleisch"
+	},
+    "GAMEPLAY_SaltedMeatPtarmiganDescription" : {
+                            "English" : "Meat harvested from a ptarmigan, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de un tarmigán, salada para secarse.",
+                            "German" :  "Fleisch von einem Schneehuhn, gesalzen um zu trocknen"
+    },
+	"GAMEPLAY_CuredMeatPtarmigan" : {
+                            "English" : "Cured Ptarmigan Meat",
+							"Spanish (Spain)" : "Carne de tarmigán curada",
+                            "German" :  "Getrocknetes Schneehuhnfleisch"
+	},
+    "GAMEPLAY_CuredMeatPtarmiganDescription" : {
+                            "English" : "Meat harvested from a Ptarmigan, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de un tarmigán, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Schneehuhn, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },
+    "GAMEPLAY_BirdFeatherBundle" : {
+                            "English" : "Crow Feathers",
+							"Spanish (Spain)" : "Plumas de cuervo",
+                            "German" :  "Krähenfedern"
+    },
+    "GAMEPLAY_BirdFeatherBundleDescription" : {
+                            "English" : "A bundle of feathers harvested from a crow.",
+							"Spanish (Spain)" : "Un grupo de plumas obtenidas de un cuervo.",
+                            "German" :  "Ein Bündel Federn von einer Krähe."
+    },
+    "GAMEPLAY_BirdEggRaw" : {
+                            "English" : "Bird Egg",
+							"Spanish (Spain)" : "Huevo de pájaro.",
+                            "German" :  "Vogelei"
+    },
+    "GAMEPLAY_BirdEggRawDescription" : {
+                            "English" : "The egg of an unidentified bird. Probably, it won't hatch. Don't eat it raw.",
+							"Spanish (Spain)" : "Huevo de un ave sin identificar. Probablemente nunca eclosione. No te lo comas crudo.",
+                            "German" :  "Das Ei eines unbekannten Vogels. Vielleicht wird es nicht schlüpfen. Nicht roh essen."
+    },
+    "GAMEPLAY_BirdEggBoiled" : {
+                            "English" : "Boiled Bird Egg",
+							"Spanish (Spain)" : "Huevo de pájaro cocido.",
+                            "German" :  "Gekochtes Vogelei"
+    },
+    "GAMEPLAY_BirdEggBoiledDescription" : {
+                            "English" : "The egg of an unidentified bird. Boiled and ready to eat.",
+							"Spanish (Spain)" : "Huevo de un ave sin identificar. Cocido y listo para comer.",
+                            "German":  "Das Ei eines unbekannten Vogels. Gekocht und fertig zum Essen."
+    },		
+	"GAMEPLAY_OrcaCarcass1" : {
+                            "English" : "Orca Carcass",
+							"Spanish (Spain)" : "Orca",
+                            "German" :  "Orcakadaver"
+    },
+    "GAMEPLAY_OrcaCarcass1Description" : {
+                            "English" : "Orca Carcass.",
+							"Spanish (Spain)" : "Orca.",
+                            "German" :  "Orcakadaver"
+    },
+	"GAMEPLAY_OrcaCarcass2" : {
+                            "English" : "Orca Carcass",
+							"Spanish (Spain)" : "Orca",
+                            "German" :  "Orcakadaver"
+    },
+    "GAMEPLAY_OrcaCarcass2Description" : {
+                            "English" : "Orca Carcass.",
+							"Spanish (Spain)" : "Orca.",
+                            "German" :  "Orcakadaver"
+    },
+	"GAMEPLAY_OrcaCarcassRavaged1" : {
+                            "English" : "Orca Carcass",
+							"Spanish (Spain)" : "Orca",
+                            "German" :  "Orcakadaver"
+    },
+    "GAMEPLAY_OrcaCarcassRavaged1Description" : {
+                            "English" : "Orca Carcass.",
+							"Spanish (Spain)" : "Orca.",
+                            "German" :  "Orcakadaver"
+    },
+	"GAMEPLAY_OrcaCarcassRavaged2" : {
+                            "English" : "Orca Carcass",
+							"Spanish (Spain)" : "Orca",
+                            "German" :  "Orcakadaver"
+    },
+    "GAMEPLAY_OrcaCarcassRavaged2Description" : {
+                            "English" : "Orca Carcass.",
+							"Spanish (Spain)" : "Orca.",
+                            "German" :  "Orcakadaver"
+    },
+	"GAMEPLAY_OrcaQuarter" : {
+                            "English" : "Orca Quarter",
+							"Spanish (Spain)" : "Pedazo de orca",
+                            "German" :  "Orcaviertel"
+    },
+    "GAMEPLAY_OrcaQuarterDescription" : {
+                            "English" : "Meat lump from an orca carcass. Might be useful.",
+							"Spanish (Spain)" : "Trozo de carne proveniente del cadáver de una orca.Quizás sea de utilidad.",
+                            "German" :  "Fleischklumpen eines Orcakadavers. Könnte nützlich sein."
+    },
+	"GAMEPLAY_OrcaFat" : {
+                            "English" : "Orca Blubber",
+							"Spanish (Spain)" : "Grasa de orca",
+                            "German" : "Orcaspeck"
+    },
+    "GAMEPLAY_OrcaFatDescription" : {
+                            "English" : "Lump of blubber harvested from an orca carcass. It's oily and stinks a lot. You could find some use to it.",
+							"Spanish (Spain)" : "Trozo de grasa proveniente del cadáver de una orca. Está aceitoso y apesta una barvaridad. Quizás puedas encontrarle algún uso.",
+                            "German" :  "Speckklumpen eines Orcakadavers. Es ist ölig und stinkt sehr. Vielleicht findest du dafür einen Nutzen."
+    },
+	"GAMEPLAY_FuelOrca" : {
+                            "English" : "Orca Oil",
+							"Spanish (Spain)" : "Aceite de orca",
+                            "German" :  "Orcaöl"
+    },
+    "GAMEPLAY_FuelOrcaDescription" : {
+                            "English" : "Oil obtained from blubber. Refuel your lamp with this.",
+							"Spanish (Spain)" : "Aceite obtenido de la grasa de una ballena. Rellena tu lámpara con esto.",
+                            "German" :  "Aus Speck gewonnenes Öl. Befüllen Sie damit Ihre Laterne."
+    },
+	"GAMEPLAY_OrcaMeatRaw" : {
+                            "English" : "Raw Orca Meat",
+							"Spanish (Spain)" : "Carne cruda de orca",
+                            "German" :  "Rohes Orcafleisch"
+    },
+    "GAMEPLAY_OrcaMeatRawDescription" : {
+                            "English" : "Meat harvested from an orca carcass. A bit greasy to the touch. You heard somewhere people have eaten whales before.",
+							"Spanish (Spain)" : "Carne proveniente del cadáver de una orca. Un poco grasienta al tacto. Jurarías haber escuchado que la gente ha comido ballenas alguna vez.",
+                            "German" :  "Fleisch von einem Orcakadaver. Fühlt sich etwas fettig an. Dass Menschen schon einmal Wale gegessen haben, hast du schon gehört."
+    },	
+	"GAMEPLAY_OrcaMeatCooked" : {
+                            "English" : "Cooked Orca Meat",
+							"Spanish (Spain)" : "Carne cocinada de orca",
+                            "German" :  "Gekochtes Orcafleisch"
+    },
+    "GAMEPLAY_OrcaMeatCookedDescription" : {
+                            "English" : "Meat from an orca. A bit greasy to the touch. Doesn't look half bad.",
+							"Spanish (Spain)" : "Carne proveniente de una orca. Un poco grasienta al tacto. No tiene mala pinta.",
+                            "German" :  "Fleisch eines Orcas. Fühlt sich etwas fettig an. Sieht gar nicht so schlecht aus."
+    },
+    "GAMEPLAY_SaltedMeatOrca" : {
+                            "English" : "Salted Orca Meat",
+							"Spanish (Spain)" : "Carne de orca salada",
+                            "German" :  "Gesalzenes Orcafleisch"
+    },
+    "GAMEPLAY_SaltedMeatOrcaDescription" : {
+                            "English" : "Meat harvested from an orca, salted to dry it.",
+							"Spanish (Spain)" : "Carne obtenida de una orca, salada para secarse.",
+                            "German" :  "Fleisch von einem Orca, gesalzen um zu trocknen."
+    },
+    "GAMEPLAY_CuredMeatOrca" : {
+                            "English" : "Cured Orca Meat",
+							"Spanish (Spain)" : "Carne de orca curada",
+                            "German" :  "Getrocknetes Orcafleisch"
+    },
+    "GAMEPLAY_CuredMeatOrcaDescription" : {
+                            "English" : "Meat harvested from an orca, dried with salt. Will take longer to go bad.",
+							"Spanish (Spain)" : "Carne obtenida de una orca, secada con sal. Tardará más tiempo en ponerse mala.",
+                            "German" :  "Fleisch von einem Orca, mit Salz getrocknet. Verdirbt nicht so schnell."
+    },	
+	"GAMEPLAY_BeeHive" : {
+                            "English" : "Hive",
+							"Spanish (Spain)" : "Colmena",
+                            "German" :  "Bienenstock"
+    },
+    "GAMEPLAY_BeeHiveDescription" : {
+                            "English" : "A frozen bee hive, a rare sight these days. Maybe you could still get something of use out of it. Looks abandoned, and bees won't come back any time soon.",
+							"Spanish (Spain)" : "Una colmena de abejas congelada, algo dificil de ver estos días. Quizás aún le puedas sacar algo de valor. Parece abandonado, y no parece que las abejas vayan a volver pronto.",
+                            "German" :  "Ein gefrorener Bienenstock, heutzutage ein seltener Anblick. Vielleicht kann man etwas Brauchbares daraus machen. Sieht verlassen aus und die Bienen werden wohl nicht so schnell zurückkommen."
+    },
+	"GAMEPLAY_BeeHarvestedHoney" : {
+                            "English" : "Honey",
+							"Spanish (Spain)" : "Miel",
+                            "German" :  "Honig"
+    },
+    "GAMEPLAY_BeeHarvestedHoneyDescription" : {
+                            "English" : "Natural honey, extracted from a bee hive. Sweet and full of energy.",
+							"Spanish (Spain)" : "Miel natural, extraida de una colmena de abejas. Dulce y llena de energía.",
+                            "German" :  "Natürlicher Honig, aus einem Bienenstock extrahiert. Süß und voller Energie."
+    },
+	"GAMEPLAY_NestEmpty" : {
+                            "English" : "Empty Nest",
+							"Spanish (Spain)" : "Nido vacío",
+                            "German" :  "Leeres Nest"
+    },
+    "GAMEPLAY_NestEmptyDescription" : {
+                            "English" : "The nest from an unidentified bird, completely abandoned. A good source of sticks.",
+							"Spanish (Spain)" : "Un nido de un pajaro sin identificar, completamente abandonado. Una buena fuente de palos.",
+                            "German" : "Das Nest eines unbekannten Vogels, komplett verlassen. Eine gute Quelle für Stöcke."
+    },	
+	"GAMEPLAY_4FirCone" : {
+                            "English" : "Fir Cone",
+							"Spanish (Spain)" : "Piña de abeto",
+                            "German" :  "Tannenzapfen"
+    },
+    "GAMEPLAY_4FirConeDescription" : {
+                            "English" : "A cone from a fir tree, full of edible seeds.",
+							"Spanish (Spain)" : "Piña de abeto llena de semillas comestibles.",
+                            "German" :  "Ein Zapfen eines Tannenbaumes, voll mit essbaren Samen."
+    },
+	"GAMEPLAY_4FirConeSingle" : {
+                            "English" : "cone.",
+							"Spanish (Spain)" : "piña.",
+                            "German" :  "Zapfen"
+    },
+    "GAMEPLAY_4FirConeMultiple" : {
+                            "English" : "cones.",
+							"Spanish (Spain)" : "piñas.",
+                            "German" :  "Zapfen"
+    },		
+	"GAMEPLAY_1FirConeFuel" : {
+                            "English" : "Fir Cone",
+							"Spanish (Spain)" : "Piña de abeto",
+                            "German" :  "Tannenzapfen"
+    },
+    "GAMEPLAY_1FirConeFuelDescription" : {
+                            "English" : "A cone from a fir tree, whose seeds have been removed. Can be used to fuel a fire.",
+							"Spanish (Spain)" : "Piña de abeto a la que se le han extraido las semillas. Puede usarse como combustible para fogatas.",
+                            "German" :  "Ein Zapfen eines Tannenbaumes, dessen Samen entfernt wurden. Kann als nützlicher Brennstoff verwendet werden."
+    },
+	"GAMEPLAY_1FirConeFuelSingle" : {
+                            "English" : "cone.",
+							"Spanish (Spain)" : "piña.",
+                            "German" :  "Zapfen"
+    },
+    "GAMEPLAY_1FirConeFuelMultiple" : {
+                            "English" : "cones.",
+							"Spanish (Spain)" : "piñas.",
+                            "German" :  "Zapfen"
+    },		
+	"GAMEPLAY_3FirConeSeeds" : {
+                            "English" : "Fir Seeds",
+							"Spanish (Spain)" : "Piñones",
+                            "German" :  "Tannensamen"
+    },
+    "GAMEPLAY_3FirConeSeedsDescription" : {
+                            "English" : "The seeds of a fir tree. Can be roasted to make a light snack.",
+							"Spanish (Spain)" : "Piñones procedentes de un abeto. Se pueden asar y comer como aperitivo.",
+                            "German" :  "Die Samen eines Tannenbaumes. Können für einen leichten Snack geröstet werden."
+    },
+	"GAMEPLAY_2FirSeedBunch" : {
+                            "English" : "Fir Seeds (Bunch)",
+							"Spanish (Spain)" : "Piñones (Montón)",
+                            "German" :  "Tannensamen (Bündel)"
+	},
+    "GAMEPLAY_2FirSeedBunchDescription" : {
+                            "English" : "The seeds of a fir tree. Can be roasted to make a light snack.",
+							"Spanish (Spain)" : "Piñones procedentes de un abeto. Se pueden asar y comer como aperitivo.",
+                            "German" :  "Die Samen eines Tannenbaumes. Können für einen leichten Snack geröstet werden."
+    },
+	"GAMEPLAY_3FirConeSeedsSingle" : {
+                            "English" : "heap.",
+							"Spanish (Spain)" : "puñado.",
+                            "German" :  "Haufen"
+    },
+    "GAMEPLAY_3FirConeSeedsMultiple" : {
+                            "English" : "heaps.",
+							"Spanish (Spain)" : "puñados.",
+                            "German" :  "Haufen"
+    },
+	"GAMEPLAY_2FirConeSeedsRoasted" : {
+                            "English" : "Roasted Fir Seeds",
+							"Spanish (Spain)" : "Piñones asados",
+                            "German" :  "Geröstete Tannensamen"
+    },
+    "GAMEPLAY_2FirConeSeedsRoastedDescription" : {
+                            "English" : "The seeds of a fir tree. Roasted and ready to eat.",
+							"Spanish (Spain)" : "Piñones procedentes de un abeto. Asadas y listas para comer.",
+                            "German" :  "Die Samen eines Tannenbaumes. Geröstet und fertig zum Essen."
+    },
+	"GAMEPLAY_1FirSeedBunchRoasted" : {
+                            "English" : "Roasted Fir Seeds (Bunch)",
+							"Spanish (Spain)" : "Piñones asados (Puñado)",
+                            "German" :  "Geröstete Tannensamen (Bündel)"
+	},
+    "GAMEPLAY_1FirSeedBunchRoastedDescription" : {
+                            "English" : "The seeds of a fir tree. Roasted and ready to eat.",
+							"Spanish (Spain)" : "Piñones procedentes de un abeto. Asadas y listas para comer.",
+                            "German" :  "Die Samen eines Tannenbaumes. Geröstet und fertig zum Essen."
+    },
+	"GAMEPLAY_2FirConeSeedsRoastedSingle" : {
+                            "English" : "heap.",
+							"Spanish (Spain)" : "puñado.",
+                            "German" :  "Haufen"
+    },
+    "GAMEPLAY_2FirConeSeedsRoastedMultiple" : {
+                            "English" : "heaps.",
+							"Spanish (Spain)" : "puñados.",
+                            "German" :  "Haufen"
+    },
+	"GAMEPLAY_Halite" : {
+                            "English" : "Halite",
+							"Spanish (Spain)" : "Halita",
+                            "German" :  "Halit"
+    },
+    "GAMEPLAY_HaliteDescription" : {
+                            "English" : "Salt rock, mined across Great Bear.",
+							"Spanish (Spain)" : "Roca de sal, minada por toda Gran Oso.",
+                            "German" : "Salzstein, auf Großer Bär abgebaut."
+    },
+	"GAMEPLAY_HaliteSmall" : {
+                            "English" : "Halite",
+							"Spanish (Spain)" : "Halita",
+                            "German" :  "Halit"
+    },
+    "GAMEPLAY_HaliteSmallDescription" : {
+                            "English" : "Salt rock, mined across Great Bear.",
+							"Spanish (Spain)" : "Roca de sal, minada por toda Gran Oso.",
+                            "German" : "Salzstein, auf Großer Bär abgebaut."
+    },
+	"GAMEPLAY_CoalChunk" : {
+                            "English" : "Coal Chunk",
+							"Spanish (Spain)" : "Pedazo de carbón",
+                            "German" :  "Kohlebrocken"
+	},
+    "GAMEPLAY_CoalChunkDescription" : {
+                            "English" : "A coal formation. Break it in smaller pieces to use them.",
+							"Spanish (Spain)" : "Formación de carbón. Rómpela en pedazos más pequeños pata poder usarlos.",
+                            "German" :  "Ein Brocken Kohle. Zum Benutzen in kleine Stücke brechen."
+    },
+	"GAMEPLAY_HaliteSingle" : {
+                            "English" : "chunk",
+							"Spanish (Spain)" : "pedazo",
+                            "German" :  "Brocken"
+	},
+    "GAMEPLAY_HaliteMultiple" : {
+                            "English" : "chunks",
+							"Spanish (Spain)" : "pedazos",
+                            "German" :  "Brocken"
+    },		
+	"GAMEPLAY_CrushedHalite" : {
+                            "English" : "Crushed Halite",
+							"Spanish (Spain)" : "Halita machacada",
+                            "German" :  "Zerstoßener Halit"
+    },
+    "GAMEPLAY_CrushedHaliteDescription" : {
+                            "English" : "Crushed salt rock. Can be used for cooking.",
+							"Spanish (Spain)" : "Roca de sal machacada. Puede usarse para cocinar.",
+                            "German" :  "Zerstoßener Salzstein. Kann zum Kochen verwendet werden."
+    },	
+	"GAMEPLAY_CrushedHaliteSingle" : {
+                            "English" : "portion",
+							"Spanish (Spain)" : "porción",
+                            "German" :  "Portion"
+    },
+    "GAMEPLAY_CrushedHaliteMultiple" : {
+                            "English" : "portions",
+							"Spanish (Spain)" : "porciones",
+                            "German" :  "Portionen"
+    },
+	"GAMEPLAY_SkullStag" : {
+                            "English" : "Deer Skull",
+							"Spanish (Spain)" : "Calavera de ciervo",
+                            "German" :  "Rehschädel"
+	},
+    "GAMEPLAY_SkullStagDescription" : {
+                            "English" : "Skull of a decayed deer.",
+							"Spanish (Spain)" : "La calavera de un ciervo muerto.",
+                            "German" :  "Schädel eines zerfallenen Rehs."
+    },
+	"GAMEPLAY_SkullBear" : {
+                            "English" : "Bear Skull",
+							"Spanish (Spain)" : "Calavera de oso",
+                            "German" :  "Bärenschädel"
+	},
+    "GAMEPLAY_SkullBearDescription" : {
+                            "English" : "Skull of a decayed bear.",
+							"Spanish (Spain)" : "La calavera de un oso muerto.",
+                            "German" :  "Schädel eines zerfallenen Bären."
+    },		
+	"GAMEPLAY_BF_SaltBehaviourLabel" : {
+							"English" : "Salt",
+							"Spanish (Spain)" : "Salar",
+                            "German" :  "Salz"
+	},
+	"GAMEPLAY_BF_SaltBehaviourProgressBar" : {
+							"English" : "Salting...",
+							"Spanish (Spain)" : "Salando..."		,
+                            "German" :  "Salzen..."
+	},
+	"GAMEPLAY_BF_SaltBehaviourNoSalt" : {
+							"English" : "You don't have enough salt.",
+							"Spanish (Spain)" : "No tienes suficiente sal.",
+                            "German" :  "Du hast nicht genügend Salz."
+	},
+	"GAMEPLAY_BF_SaltBehaviourRotting" : {
+							"English" : "You cannot salt rotting meat.",
+							"Spanish (Spain)" : "No puedes salar carne que está pudriéndose.",
+                            "German" :  "Du kannst kein verdorbenes Fleisch salzen."
+	},
+	"GAMEPLAY_UndefinedChunk" : {
+                            "English" : "Perfectly Generic Chunk",
+                            "German" :  "Perfekt generischer Brocken"
+	},
+    "GAMEPLAY_UndefinedChunkDescription" : {
+                            "English" : "You're not supposed to see this.",
+                            "German" :  "Das darfst du nicht sehen."
+
+    },
+	"GAMEPLAY_UndefinedOrcaLoot" : {
+                            "English" : "Perfectly Generic Orca Loot",
+                            "German" :  "Perfekt generischer Orcaloot"
+	},
+    "GAMEPLAY_UndefinedOrcaLootDescription" : {
+                            "English" : "You're not supposed to see this.",
+                            "German" :  "Das darfst du nicht sehen."
+    }
+}

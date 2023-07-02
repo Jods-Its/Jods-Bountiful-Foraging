@@ -1,0 +1,16 @@
+{
+    "Name": "SeedBunch",
+    "RequiredGear": [{"Item": "GEAR_3FirConeSeeds", "Count": 5}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_2FirSeedBunch",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1,
+    "CraftingAudio": "PLAY_CRAFTINGACORNSSHELLING",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

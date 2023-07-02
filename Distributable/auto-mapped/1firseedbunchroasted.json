@@ -1,52 +1,52 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "GAMEPLAY_SaltedMeatOrca",
-                            "DescriptionLocalizatonId" : "GAMEPLAY_SaltedMeatOrcaDescription",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_1FirSeedBunchRoasted",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_1FirSeedBunchRoastedDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 1.0,
+                            "WeightKG": 0.25,
                             "DaysToDecay" : 0,
-                            "MaxHP" : 5,
+                            "MaxHP" : 100,
                             "InitialCondition" : "Perfect",
                             "InventoryCategory" : "Food",
-                            "PickUpAudio" : "Play_SndInvMeatLarge",
-                            "PutBackAudio" : "Play_SndInvMeatLarge",
+                            "PickUpAudio" : "Play_SndInvPlantAcorns",
+                            "PutBackAudio" : "Play_SndInvPlantAcorns",
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 1.0,
-                            "InspectAngles" : [90, 0, 0],
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [0, 0, 0],
                             "InspectOffset" : [0, 0, 0],
                             "InspectScale" :  [1, 1, 1],
                             "NormalModel" : "",
                             "InspectModel" : "",
 
                             "Cooking" : false,
-                            "CookingMinutes" : 15,
+                            "CookingMinutes" : 8,
                             "CookingUnitsRequired" : 1,
                             "CookingWaterRequired" : 0,
                             "CookingResult" : "",
                             "BurntMinutes" : 30,
-                            "Type" : "Meat",
-                            "CookingAudio" : "Play_FryingLight",
-                            "StartCookingAudio" : "Play_FryingLight",
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
 
-                            "DaysToDecayOutdoors" : 90,
-                            "DaysToDecayIndoors" : 30,
-                            "Calories" : 1000,
+                            "DaysToDecayOutdoors" : 0,
+                            "DaysToDecayIndoors" : 0,
+                            "Calories" : 250,
                             "Servings" : 1,
-                            "EatingTime" : 6,
-                            "EatingAudio" : "Play_EatingMeat",
+                            "EatingTime" : 1,
+                            "EatingAudio" : "Play_EatingCrunchy",
                             "EatingPackagedAudio" : "",
-                            "ThirstEffect" : -25,
+                            "ThirstEffect" : 0,
 
-                            "FoodPoisoning" : 60,
-                            "FoodPoisoningLowCondition" : 100,
-                            "ParasiteRiskIncrements" : [2.0, 3.0, 5.0],
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 0,
+                            "ParasiteRiskIncrements" : [],
 
                             "Natural" : true,
-                            "Raw" : true,
+                            "Raw" : false,
                             "Drink" : false,
-                            "Meat" : true,
+                            "Meat" : false,
                             "Fish" : false,
                             "Canned" : false,
 
@@ -72,12 +72,11 @@
                             "AlcoholPercentage" : 0,
                             "AlcoholUptakeMinutes" : 45
                         },
-    "ModEvolveBehaviour" : {
-                            "TargetItemName" : "GEAR_CuredMeatOrca",
-                            "EvolveHours" : 24,
-                            "IndoorsOnly" : true
-                        },
-    "ModScentBehaviour" : {
-                            "ScentCategory" : "RAW_MEAT"
-                          }						
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_2FirConeSeedsRoastedSingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_2FirConeSeedsRoastedMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 0
+                             }	
 }
