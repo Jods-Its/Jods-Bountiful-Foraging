@@ -41,7 +41,7 @@
 * You can now craft fir seeds bundles to cook them in batches.
 * Halite chunks are rarer now, but little halite pieces will appear now in caves (renewable).
 * Coal chunks can now appear in some mines and caves. Break them to get several coal pieces.
-* 2 new rare secret decorative items that spawn in the wild. I want screenshots if you find one :wink: 
+* 2 new rare secret decorative items that spawn in the wild.
 * Crow carcasses, fir cones and halite pieces spawn % can be tweaked via ModSettings.
 
 * For CandleLight users, Bountiful Foraging+ let you obtain fat from orca blubber and wax from bee hives.
