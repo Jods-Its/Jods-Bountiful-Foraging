@@ -8,9 +8,12 @@ namespace Bountiful_Foraging
         public static GameObject cones = Addressables.LoadAssetAsync<GameObject>("GEAR_4FirCone").WaitForCompletion();
         public static GameObject crows = Addressables.LoadAssetAsync<GameObject>("GEAR_CrowCarcass").WaitForCompletion();
         public static GameObject feather = Addressables.LoadAssetAsync<GameObject>("GEAR_CrowFeather").WaitForCompletion();
+        public static GameObject salt = Addressables.LoadAssetAsync<GameObject>("GEAR_HaliteSmall").WaitForCompletion();
+        public static GameObject skull1 = Addressables.LoadAssetAsync<GameObject>("GEAR_SkullStag").WaitForCompletion();
+        public static GameObject skull2 = Addressables.LoadAssetAsync<GameObject>("GEAR_SkullBear").WaitForCompletion();
         public static string FindAnimal (string gearItemName)
         {
-            string[] animal = {"Bear", "Bird", "Deer", "Moose", "Orca", "Rabbit", "Wolf" };
+            string[] animal = {"Bear", "Bird", "Deer", "Moose", "Orca", "Rabbit", "Wolf", "Ptarmigan"};
             string sheFuckedUp = "Venison";
             int index = -1;
             for (int i = 0; i <animal.Length; i++)

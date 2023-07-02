@@ -11,6 +11,7 @@ namespace Bountiful_Foraging
         internal static FoodItem rawMeatFoodItem;
         internal static GearItem rawMeatGearItem;
         internal static string saltItem = "GEAR_CrushedHalite";
+        internal static string saltItem2 = "GEAR_Salt";
         private static string meatFromAnimal;
         private static float meatCondition;
         private static float meatWeight;
@@ -52,7 +53,7 @@ namespace Bountiful_Foraging
             //MelonLoader.MelonLogger.Msg("Salting:");
             //MelonLoader.MelonLogger.Msg(meatFromAnimal);
             //MelonLoader.MelonLogger.Msg(meatCalories + " calories.");
-            //MelonLoader.MelonLogger.Msg(meatCondition + " condition.");
+            MelonLoader.MelonLogger.Msg(meatCondition + " condition.");
             //MelonLoader.MelonLogger.Msg(meatWeight + " KG.");
             if (thisFoodItem == null || thisGearItem == null) return;
             if (meatCondition < 2.5f)
@@ -70,6 +71,14 @@ namespace Bountiful_Foraging
                 GearItem.Destroy(thisGearItem);
 
             }
+            else if (GameManager.GetInventoryComponent().GearInInventory(saltItem2, 1))
+            {
+                GameAudioManager.PlayGuiConfirm();
+                InterfaceManager.GetPanel<Panel_GenericProgressBar>().Launch(Localization.Get("GAMEPLAY_BF_SaltBehaviourProgressBar"), 5f, 0f, 0f,
+                                "Play_SearchCorpse", null, false, true, new System.Action<bool, bool, float>(OnSaltFinished));
+                GameManager.GetInventoryComponent().RemoveGearFromInventory(saltItem2, 1);
+                GearItem.Destroy(thisGearItem);
+            }
             else
             {
                 HUDMessage.AddMessage(Localization.Get("GAMEPLAY_BF_SaltBehaviourNoSalt"));
@@ -82,7 +91,8 @@ namespace Bountiful_Foraging
             //MelonLoader.MelonLogger.Msg("GEAR_SaltedMeat" + meatFromAnimal);
             GearItem saltedMeat = Addressables.LoadAssetAsync<GameObject>("GEAR_SaltedMeat" + meatFromAnimal).WaitForCompletion().GetComponent<GearItem>();
             saltedMeat.WeightKG = meatWeight;
-            saltedMeat.CurrentHP = meatCondition + 5f;
+            saltedMeat.CurrentHP = meatCondition + 0.1f;
+            MelonLoader.MelonLogger.Msg(saltedMeat.CurrentHP + " condition.");
             saltedMeat.m_FoodItem.m_CaloriesRemaining = meatCalories;
             GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(saltedMeat, 1);
         }

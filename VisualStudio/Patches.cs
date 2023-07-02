@@ -43,7 +43,7 @@ namespace Bountiful_Foraging
                 
                 if (__instance != null && __instance.name.Contains("RadialSpawn_sticks") && BFUtils.cones != null)
                 {
-                    if (Utils.RollChance(30))
+                    if (Utils.RollChance(Settings.instance.coneChance))
                     {
                         __result = BFUtils.cones;
                     }
@@ -58,14 +58,56 @@ namespace Bountiful_Foraging
             {
                 if (__instance != null && BFUtils.crows != null && __instance.m_ObjectToSpawn == BFUtils.feather)
                 {
-                    if (Utils.RollChance(15))
+                    if (Utils.RollChance(Settings.instance.crowChance))
                     {
                         __result = BFUtils.crows;
                     }
                 }
             }
         }
-        
+        [HarmonyPatch(typeof(RadialObjectSpawner), "GetNextPrefabToSpawn")]
+        internal class AddSalt
+        {
+            private static void Postfix(RadialObjectSpawner __instance, ref GameObject __result)
+            {
+                if (__instance != null && BFUtils.salt != null && __instance.name.Contains("RadialSpawn_coal"))
+                {
+                    if (Utils.RollChance(Settings.instance.saltChance))
+                    {
+                        __result = BFUtils.salt;
+                    }
+                }
+            }
+        }
+        [HarmonyPatch(typeof(RadialObjectSpawner), "GetNextPrefabToSpawn")]
+        internal class AddSkullStag
+        {
+            private static void Postfix(RadialObjectSpawner __instance, ref GameObject __result)
+            {
+                if (__instance != null && __instance.name.Contains("RadialSpawn_sticks") && BFUtils.skull1 != null)
+                {
+                    if (Utils.RollChance(0.1f))
+                    {
+                        __result = BFUtils.skull1;
+                    }
+                }
+            }
+        }
+        [HarmonyPatch(typeof(RadialObjectSpawner), "GetNextPrefabToSpawn")]
+        internal class AddSkullBear
+        {
+            private static void Postfix(RadialObjectSpawner __instance, ref GameObject __result)
+            {
+                if (__instance != null && __instance.name.Contains("RadialSpawn_sticks") && BFUtils.skull2 != null)
+                {
+                    if (Utils.RollChance(0.1f))
+                    {
+                        __result = BFUtils.skull2;
+                    }
+                }
+            }
+        }
+
     }
 
 }
