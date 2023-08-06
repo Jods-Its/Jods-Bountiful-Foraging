@@ -60,6 +60,8 @@ Huge thanks to [TheKillerGreece](https://github.com/Thekillergreece) for helping
 
 German Localization by Himbraut.
 
+Turkish Localization by Elderly || Emre
+
 ## Videos
 
 [![BountifulForaging](https://img.youtube.com/vi/m7M19vjN3p0/0.jpg)](https://www.youtube.com/watch?v=m7M19vjN3p0)
