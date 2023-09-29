@@ -287,63 +287,63 @@
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки"
+				"Russian" : "Туша косатки"
     },
     "GAMEPLAY_OrcaCarcass1Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки."
+				"Russian" : "Туша косатки."
     },
 	"GAMEPLAY_OrcaCarcass2" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки"
+				"Russian" : "Туша косатки"
     },
     "GAMEPLAY_OrcaCarcass2Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки."
+				"Russian" : "Туша косатки."
     },
 	"GAMEPLAY_OrcaCarcassRavaged1" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки"
+				"Russian" : "Туша косатки"
     },
     "GAMEPLAY_OrcaCarcassRavaged1Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки."
+				"Russian" : "Туша косатки."
     },
 	"GAMEPLAY_OrcaCarcassRavaged2" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки"
+				"Russian" : "Туша косатки"
     },
     "GAMEPLAY_OrcaCarcassRavaged2Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Туша касатки."
+				"Russian" : "Туша косатки."
     },
 	"GAMEPLAY_OrcaQuarter" : {
                             "English" : "Orca Quarter",
 							"Spanish (Spain)" : "Pedazo de orca",
                             "German" :  "Orcaviertel",
                             "Turkish" : "Katil Balina Çeyreği",
-				"Russian" : "Кусок туши касатки"
+				"Russian" : "Кусок туши косатки"
     },
     "GAMEPLAY_OrcaQuarterDescription" : {
                             "English" : "Meat lump from an orca carcass. Might be useful.",
@@ -357,28 +357,28 @@
 							"Spanish (Spain)" : "Grasa de orca",
                             "German" : "Orcaspeck",
                             "Turkish" : "Balina Yağı",
-				"Russian" : "Жир касатки"
+				"Russian" : "Жир косатки"
     },
     "GAMEPLAY_OrcaFatDescription" : {
                             "English" : "Lump of blubber harvested from an orca carcass. It's oily and stinks a lot. You could find some use to it.",
 							"Spanish (Spain)" : "Trozo de grasa proveniente del cadáver de una orca. Está aceitoso y apesta una barvaridad. Quizás puedas encontrarle algún uso.",
                             "German" :  "Speckklumpen eines Orcakadavers. Es ist ölig und stinkt sehr. Vielleicht findest du dafür einen Nutzen.",
                             "Turkish" : "Bir katil balina leşinden hasat edilmiş balina yağı parçası. Yağlı ve çok kokuyor. Biraz faydasını görebilirsin.",
-				"Russian" : "Кусок жира касатки. Маслянистый и сильно воняющий. Может оказаться полезным."
+				"Russian" : "Кусок жира косатки. Маслянистый и сильно воняющий. Может оказаться полезным."
     },
 	"GAMEPLAY_FuelOrca" : {
                             "English" : "Orca Oil",
 							"Spanish (Spain)" : "Aceite de orca",
                             "German" :  "Orcaöl",
                             "Turkish" : "Sıvı Balina Yağı",
-				"Russian" : "Масло касатки"
+				"Russian" : "Масло косатки"
     },
     "GAMEPLAY_FuelOrcaDescription" : {
                             "English" : "Oil obtained from blubber. Refuel your lamp with this.",
 							"Spanish (Spain)" : "Aceite obtenido de la grasa de una ballena. Rellena tu lámpara con esto.",
                             "German" :  "Aus Speck gewonnenes Öl. Befüllen Sie damit Ihre Laterne.",
                             "Turkish" : "Katil Balina yağından elde edilen sıvı yağ. Lambanızı bununla doldurun.",
-				"Russian" : "Масло из жира касатки. Им можно заправить лампу."
+				"Russian" : "Масло из жира косатки. Им можно заправить лампу."
     },
 	"GAMEPLAY_OrcaMeatRaw" : {
                             "English" : "Raw Orca Meat",
