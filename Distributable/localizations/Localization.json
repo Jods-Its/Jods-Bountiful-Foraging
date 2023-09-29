@@ -70,7 +70,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einer Krähe, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Вяленое с помощью соли воронье мясо. Оно портится не так быстро."
+				"Russian" : "Просоленное и просушенное воронье мясо. Оно портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatRabbit" : {
                             "English" : "Salted Rabbit Meat",
@@ -98,7 +98,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un conejo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Kaninchen, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Вяленая крольчатина. Она портится не так быстро."
+				"Russian" : "Просоленная и просушенная крольчатина. Она портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatVenison" : {
                             "English" : "Salted Venison Meat",
@@ -126,7 +126,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un venado, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Вяленая оленина. Она портится не так быстро."
+				"Russian" : "Просоленная и просушенная оленина. Она портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatMoose" : {
                             "English" : "Salted Moose Meat",
@@ -154,7 +154,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un alce, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Elch, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Вяленое мясо лося. Оно портится не так быстро."
+				"Russian" : "Просоленное и просушенное мясо лося. Оно портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatBear" : {
                             "English" : "Salted Bear Meat",
@@ -182,7 +182,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un oso, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Bären, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır",
-				"Russian" : "Вяленая медвежатина. Она портится не так быстро."
+				"Russian" : "Просоленная и просушенная медвежатина. Она портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatWolf" : {
                             "English" : "Salted Wolf Meat",
@@ -210,7 +210,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un lobo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Wolf, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Вяленая волчатина. Она портится не так быстро."
+				"Russian" : "Просоленная и просушенная волчатина. Она портится не так быстро."
     },
 	"GAMEPLAY_SaltedMeatPtarmigan" : {
                             "English" : "Salted Ptarmigan Meat",
@@ -238,7 +238,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un tarmigán, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Schneehuhn, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kar tavuğundan hasat edilen et. Tuzde bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Вяленое мясо куропатки. Оно портится не так быстро."
+				"Russian" : "Просоленное и просушенное мясо куропатки. Оно портится не так быстро."
     },
     "GAMEPLAY_BirdFeatherBundle" : {
                             "English" : "Crow Feathers",
@@ -252,7 +252,7 @@
 							"Spanish (Spain)" : "Un grupo de plumas obtenidas de un cuervo.",
                             "German" :  "Ein Bündel Federn von einer Krähe.",
                             "Turkish" : "Kargadan toplanan bir demet tüy.",
-				"Russian" : "Пучок вороньих перьев собранных с вороны."
+				"Russian" : "Пучок вороньих перьев собранных с тушки вороны."
     },
     "GAMEPLAY_BirdEggRaw" : {
                             "English" : "Bird Egg",
@@ -343,7 +343,7 @@
 							"Spanish (Spain)" : "Pedazo de orca",
                             "German" :  "Orcaviertel",
                             "Turkish" : "Katil Balina Çeyreği",
-				"Russian" : "Четверть туши касатки"
+				"Russian" : "Кусок туши касатки"
     },
     "GAMEPLAY_OrcaQuarterDescription" : {
                             "English" : "Meat lump from an orca carcass. Might be useful.",
@@ -525,14 +525,14 @@
 							"Spanish (Spain)" : "piña.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalak",
-				"Russian" : "Шишка"
+				"Russian" : "Шишка."
     },
     "GAMEPLAY_1FirConeFuelMultiple" : {
                             "English" : "cones.",
 							"Spanish (Spain)" : "piñas.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalaklar",
-				"Russian" : "Шишки"
+				"Russian" : "Шишки."
     },		
 	"GAMEPLAY_3FirConeSeeds" : {
                             "English" : "Fir Seeds",
@@ -567,14 +567,14 @@
 							"Spanish (Spain)" : "puñado.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Горсть"
+				"Russian" : "Горсть."
     },
     "GAMEPLAY_3FirConeSeedsMultiple" : {
                             "English" : "heaps.",
 							"Spanish (Spain)" : "puñados.",
                             "German" :  "Haufen",
                             "Turkish" : "yığınlar",
-				"Russian" : "Горсти"
+				"Russian" : "Горсти."
     },
 	"GAMEPLAY_2FirConeSeedsRoasted" : {
                             "English" : "Roasted Fir Seeds",
@@ -728,7 +728,7 @@
 							"Spanish (Spain)" : "La calavera de un oso muerto.",
                             "German" :  "Schädel eines zerfallenen Bären.",
                             "Turkish" : "Çürümüş bir ayı kafatası",
-				"Russian" : "Череп разложившегося медведя"
+				"Russian" : "Череп разложившегося медведя."
     },		
 	"GAMEPLAY_BF_SaltBehaviourLabel" : {
 							"English" : "Salt",
@@ -749,7 +749,7 @@
 							"Spanish (Spain)" : "No tienes suficiente sal.",
                             "German" :  "Du hast nicht genügend Salz.",
                             "Turkish" : "Yeterli tuza sahip değilsin.",
-				"Russian" : "Не достаточно соли."
+				"Russian" : "Недостаточно соли."
 	},
 	"GAMEPLAY_BF_SaltBehaviourRotting" : {
 							"English" : "You cannot salt rotting meat.",
