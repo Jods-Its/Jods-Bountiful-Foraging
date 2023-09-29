@@ -448,7 +448,7 @@
 							"Spanish (Spain)" : "Una colmena de abejas congelada, algo dificil de ver estos días. Quizás aún le puedas sacar algo de valor. Parece abandonado, y no parece que las abejas vayan a volver pronto.",
                             "German" :  "Ein gefrorener Bienenstock, heutzutage ein seltener Anblick. Vielleicht kann man etwas Brauchbares daraus machen. Sieht verlassen aus und die Bienen werden wohl nicht so schnell zurückkommen.",
                             "Turkish" : "Donmuş bir arı kovanı, bugünlerde nadir görülen bir manzara. Belki yine de ondan işe yarar bir şeyler alabilirsin. Terk edilmiş görünüyor ve arılar yakın zamanda geri gelmeyecek.",
-				"Russian" : "Замороженый улей, редкое зрелище. Наверняка можно добыть что-то полезное. Выглядит заброшеным, в ближайшее время пчелы не вернутся сюда."
+				"Russian" : "Замороженый улей, редкое зрелище на сегодняшний день. Наверняка можно добыть что-то полезное. Выглядит заброшеным, в ближайшее время пчелы не вернутся сюда."
     },
 	"GAMEPLAY_BeeHarvestedHoney" : {
                             "English" : "Honey",
@@ -490,21 +490,21 @@
 							"Spanish (Spain)" : "Piña de abeto llena de semillas comestibles.",
                             "German" :  "Ein Zapfen eines Tannenbaumes, voll mit essbaren Samen.",
                             "Turkish" : "Yenilebilir tohumlarla dolu bir köknar ağacından bir kozalak.",
-				"Russian" : "Шишка кедровго дерева, полная съедобных семечек."
+				"Russian" : "Шишка кедровго дерева, со съедобными семечеками."
     },
 	"GAMEPLAY_4FirConeSingle" : {
                             "English" : "cone.",
 							"Spanish (Spain)" : "piña.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalak",
-				"Russian" : "Шишка"
+				"Russian" : "шишка."
     },
     "GAMEPLAY_4FirConeMultiple" : {
                             "English" : "cones.",
 							"Spanish (Spain)" : "piñas.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalaklar",
-				"Russian" : "Шишки"
+				"Russian" : "шишки."
     },		
 	"GAMEPLAY_1FirConeFuel" : {
                             "English" : "Fir Cone",
@@ -525,14 +525,14 @@
 							"Spanish (Spain)" : "piña.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalak",
-				"Russian" : "Шишка."
+				"Russian" : "шишка."
     },
     "GAMEPLAY_1FirConeFuelMultiple" : {
                             "English" : "cones.",
 							"Spanish (Spain)" : "piñas.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalaklar",
-				"Russian" : "Шишки."
+				"Russian" : "шишки."
     },		
 	"GAMEPLAY_3FirConeSeeds" : {
                             "English" : "Fir Seeds",
@@ -567,14 +567,14 @@
 							"Spanish (Spain)" : "puñado.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Горсть."
+				"Russian" : "горсть."
     },
     "GAMEPLAY_3FirConeSeedsMultiple" : {
                             "English" : "heaps.",
 							"Spanish (Spain)" : "puñados.",
                             "German" :  "Haufen",
                             "Turkish" : "yığınlar",
-				"Russian" : "Горсти."
+				"Russian" : "горсти."
     },
 	"GAMEPLAY_2FirConeSeedsRoasted" : {
                             "English" : "Roasted Fir Seeds",
@@ -609,14 +609,14 @@
 							"Spanish (Spain)" : "puñado.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Горсть"
+				"Russian" : "горсть"
     },
     "GAMEPLAY_2FirConeSeedsRoastedMultiple" : {
                             "English" : "heaps.",
 							"Spanish (Spain)" : "puñados.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Горсти"
+				"Russian" : "горсти"
     },
 	"GAMEPLAY_Halite" : {
                             "English" : "Halite",
@@ -658,21 +658,21 @@
 							"Spanish (Spain)" : "Formación de carbón. Rómpela en pedazos más pequeños pata poder usarlos.",
                             "German" :  "Ein Brocken Kohle. Zum Benutzen in kleine Stücke brechen.",
                             "Turkish" : "Bir kömür oluşumu. Kullanmak için daha küçük parçalara ayırın.",
-				"Russian" : "Крупное образования угля. Нужно разбить на мелкие кусочки что бы использовать."
+				"Russian" : "Крупное образование угля. Нужно разбить на мелкие кусочки что бы использовать."
     },
 	"GAMEPLAY_HaliteSingle" : {
                             "English" : "chunk",
 							"Spanish (Spain)" : "pedazo",
                             "German" :  "Brocken",
                             "Turkish" : "topak parça",
-				"Russian" : "Кусок"
+				"Russian" : "кусок"
 	},
     "GAMEPLAY_HaliteMultiple" : {
                             "English" : "chunks",
 							"Spanish (Spain)" : "pedazos",
                             "German" :  "Brocken",
                             "Turkish" : "topak parçalar",
-				"Russian" : "Куски"
+				"Russian" : "куски"
     },		
 	"GAMEPLAY_CrushedHalite" : {
                             "English" : "Crushed Halite",
@@ -686,21 +686,21 @@
 							"Spanish (Spain)" : "Roca de sal machacada. Puede usarse para cocinar.",
                             "German" :  "Zerstoßener Salzstein. Kann zum Kochen verwendet werden.",
                             "Turkish" : "Ezilmiş Kaya Tuzu. Yemek yapmak için kullanılabilir.",
-				"Russian" : "Разбитый в порошок галит. Полезен в кулинарии."
+				"Russian" : "Разбитый в порошок галит. Пригодится в кулинарии."
     },	
 	"GAMEPLAY_CrushedHaliteSingle" : {
                             "English" : "portion",
 							"Spanish (Spain)" : "porción",
                             "German" :  "Portion",
                             "Turkish" : "porsiyon",
-				"Russian" : "Порция"
+				"Russian" : "порция"
     },
     "GAMEPLAY_CrushedHaliteMultiple" : {
                             "English" : "portions",
 							"Spanish (Spain)" : "porciones",
                             "German" :  "Portionen",
                             "Turkish" : "porsiyonlar",
-				"Russian" : "Порции"
+				"Russian" : "порции"
     },
 	"GAMEPLAY_SkullStag" : {
                             "English" : "Deer Skull",
