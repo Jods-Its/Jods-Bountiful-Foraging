@@ -658,129 +658,129 @@
 							"Spanish (Spain)" : "Formación de carbón. Rómpela en pedazos más pequeños pata poder usarlos.",
                             "German" :  "Ein Brocken Kohle. Zum Benutzen in kleine Stücke brechen.",
                             "Turkish" : "Bir kömür oluşumu. Kullanmak için daha küçük parçalara ayırın.",
-				"Russian" : "Пусто"
+				"Russian" : "Крупное образования угля. Нужно разбить на мелкие кусочки что бы использовать."
     },
 	"GAMEPLAY_HaliteSingle" : {
                             "English" : "chunk",
 							"Spanish (Spain)" : "pedazo",
                             "German" :  "Brocken",
                             "Turkish" : "topak parça",
-				"Russian" : "Пусто"
+				"Russian" : "Кусок"
 	},
     "GAMEPLAY_HaliteMultiple" : {
                             "English" : "chunks",
 							"Spanish (Spain)" : "pedazos",
                             "German" :  "Brocken",
                             "Turkish" : "topak parçalar",
-				"Russian" : "Пусто"
+				"Russian" : "Куски"
     },		
 	"GAMEPLAY_CrushedHalite" : {
                             "English" : "Crushed Halite",
 							"Spanish (Spain)" : "Halita machacada",
                             "German" :  "Zerstoßener Halit",
                             "Turkish" : "Ezilmiş Kaya Tuzu",
-				"Russian" : "Пусто"
+				"Russian" : "Каменная соль"
     },
     "GAMEPLAY_CrushedHaliteDescription" : {
                             "English" : "Crushed salt rock. Can be used for cooking.",
 							"Spanish (Spain)" : "Roca de sal machacada. Puede usarse para cocinar.",
                             "German" :  "Zerstoßener Salzstein. Kann zum Kochen verwendet werden.",
                             "Turkish" : "Ezilmiş Kaya Tuzu. Yemek yapmak için kullanılabilir.",
-				"Russian" : "Пусто"
+				"Russian" : "Разбитый в порошок галит. Полезен в кулинарии."
     },	
 	"GAMEPLAY_CrushedHaliteSingle" : {
                             "English" : "portion",
 							"Spanish (Spain)" : "porción",
                             "German" :  "Portion",
                             "Turkish" : "porsiyon",
-				"Russian" : "Пусто"
+				"Russian" : "Порция"
     },
     "GAMEPLAY_CrushedHaliteMultiple" : {
                             "English" : "portions",
 							"Spanish (Spain)" : "porciones",
                             "German" :  "Portionen",
                             "Turkish" : "porsiyonlar",
-				"Russian" : "Пусто"
+				"Russian" : "Порции"
     },
 	"GAMEPLAY_SkullStag" : {
                             "English" : "Deer Skull",
 							"Spanish (Spain)" : "Calavera de ciervo",
                             "German" :  "Rehschädel",
                             "Turkish" : "Geyik Kafatası",
-				"Russian" : "Пусто"
+				"Russian" : "Череп оленя"
 	},
     "GAMEPLAY_SkullStagDescription" : {
                             "English" : "Skull of a decayed deer.",
 							"Spanish (Spain)" : "La calavera de un ciervo muerto.",
                             "German" :  "Schädel eines zerfallenen Rehs.",
                             "Turkish" : "Çürümüş bir geyik kafatası.",
-				"Russian" : "Пусто"
+				"Russian" : "Череп разложившегося оленя."
     },
 	"GAMEPLAY_SkullBear" : {
                             "English" : "Bear Skull",
 							"Spanish (Spain)" : "Calavera de oso",
                             "German" :  "Bärenschädel",
                             "Turkish" : "Ayı Kafatası",
-				"Russian" : "Пусто"
+				"Russian" : "Череп медведя"
 	},
     "GAMEPLAY_SkullBearDescription" : {
                             "English" : "Skull of a decayed bear.",
 							"Spanish (Spain)" : "La calavera de un oso muerto.",
                             "German" :  "Schädel eines zerfallenen Bären.",
                             "Turkish" : "Çürümüş bir ayı kafatası",
-				"Russian" : "Пусто"
+				"Russian" : "Череп разложившегося медведя"
     },		
 	"GAMEPLAY_BF_SaltBehaviourLabel" : {
 							"English" : "Salt",
 							"Spanish (Spain)" : "Salar",
                             "German" :  "Salz",
                             "Turkish" : "Tuz",
-				"Russian" : "Пусто"
+				"Russian" : "Соль"
 	},
 	"GAMEPLAY_BF_SaltBehaviourProgressBar" : {
 							"English" : "Salting...",
 							"Spanish (Spain)" : "Salando..."		,
                             "German" :  "Salzen...",
                             "Turkish" : "Tuzlanıyor...",
-				"Russian" : "Пусто"
+				"Russian" : "Засолка..."
 	},
 	"GAMEPLAY_BF_SaltBehaviourNoSalt" : {
 							"English" : "You don't have enough salt.",
 							"Spanish (Spain)" : "No tienes suficiente sal.",
                             "German" :  "Du hast nicht genügend Salz.",
                             "Turkish" : "Yeterli tuza sahip değilsin.",
-				"Russian" : "Пусто"
+				"Russian" : "Не достаточно соли."
 	},
 	"GAMEPLAY_BF_SaltBehaviourRotting" : {
 							"English" : "You cannot salt rotting meat.",
 							"Spanish (Spain)" : "No puedes salar carne que está pudriéndose.",
                             "German" :  "Du kannst kein verdorbenes Fleisch salzen.",
                             "Turkish" : "Çürüyen eti tuzlayamazsınız.",
-				"Russian" : "Пусто"
+				"Russian" : "Нельзя засолить испорченное мясо."
 	},
 	"GAMEPLAY_UndefinedChunk" : {
                             "English" : "Perfectly Generic Chunk",
                             "German" :  "Perfekt generischer Brocken",
                             "Turkish" : "Mükemmel Cins Topak Parça",
-				"Russian" : "Пусто"
+				"Russian" : "Универсальный кусок"
 	},
     "GAMEPLAY_UndefinedChunkDescription" : {
                             "English" : "You're not supposed to see this.",
                             "German" :  "Das darfst du nicht sehen.",
                             "Turkish" : "Bunu görmemelisin.",
-				"Russian" : "Пусто"
+				"Russian" : "Вы не должны это видеть."
 
     },
 	"GAMEPLAY_UndefinedOrcaLoot" : {
                             "English" : "Perfectly Generic Orca Loot",
                             "German" :  "Perfekt generischer Orcaloot",
                             "Turkish" : "Mükemmel Cins Katil Balina Ganimeti",
-				"Russian" : "Пусто"
+				"Russian" : "Унивесальный лут Косатки"
 	},
     "GAMEPLAY_UndefinedOrcaLootDescription" : {
                             "English" : "You're not supposed to see this.",
                             "German" :  "Das darfst du nicht sehen.",
                             "Turkish" : "Bunu görmemelisin.",
-				"Russian" : "Пусто"
+				"Russian" : "Вы не должны это видеть."
     }
 }
