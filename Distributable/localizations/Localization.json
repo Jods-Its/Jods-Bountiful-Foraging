@@ -42,7 +42,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. Parece pollo, si no lo piensas demasaido..",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Sieht aus wie Hühnchen, wenn man nicht viel darüber nachdenkt.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Fazla düşünmezsen tadı tavuk gibi geliyor.",
-				"Russian" : "Добытое воронье мясо. Не полноценная еда, посредственный вкус, но это всё еще пища. Выглядит как курица, если не задумываться."
+				"Russian" : "Добытое воронье мясо. Не полноценная еда, посредственный вкус, но это всё еще пища. Похоже на курицу, если не задумываться."
     },
     "GAMEPLAY_SaltedMeatBird" : {
                             "English" : "Salted Crow Meat",
