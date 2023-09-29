@@ -217,441 +217,441 @@
 							"Spanish (Spain)" : "Carne de tarmigán salada",
                             "German" :  "Gesalzenes Schneehuhnfleisch",
                             "Turkish" : "Tuzlanmış Kar Kekliği Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное мясо куропатки"
 	},
     "GAMEPLAY_SaltedMeatPtarmiganDescription" : {
                             "English" : "Meat harvested from a ptarmigan, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un tarmigán, salada para secarse.",
                             "German" :  "Fleisch von einem Schneehuhn, gesalzen um zu trocknen",
                             "Turkish" : "Bir kar tavuğundan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное мясо куропатки, готовое к сушке."
     },
 	"GAMEPLAY_CuredMeatPtarmigan" : {
                             "English" : "Cured Ptarmigan Meat",
 							"Spanish (Spain)" : "Carne de tarmigán curada",
                             "German" :  "Getrocknetes Schneehuhnfleisch",
                             "Turkish" : "Tütsülenmiş Kar Kekliği Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое мясо куропатки"
 	},
     "GAMEPLAY_CuredMeatPtarmiganDescription" : {
                             "English" : "Meat harvested from a Ptarmigan, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un tarmigán, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Schneehuhn, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kar tavuğundan hasat edilen et. Tuzde bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое мясо куропатки. Оно портится не так быстро."
     },
     "GAMEPLAY_BirdFeatherBundle" : {
                             "English" : "Crow Feathers",
 							"Spanish (Spain)" : "Plumas de cuervo",
                             "German" :  "Krähenfedern",
                             "Turkish" : "Karga Tüyleri",
-				"Russian" : "Пусто"
+				"Russian" : "Вороньи перья"
     },
     "GAMEPLAY_BirdFeatherBundleDescription" : {
                             "English" : "A bundle of feathers harvested from a crow.",
 							"Spanish (Spain)" : "Un grupo de plumas obtenidas de un cuervo.",
                             "German" :  "Ein Bündel Federn von einer Krähe.",
                             "Turkish" : "Kargadan toplanan bir demet tüy.",
-				"Russian" : "Пусто"
+				"Russian" : "Пучок вороньих перьев собранных с вороны."
     },
     "GAMEPLAY_BirdEggRaw" : {
                             "English" : "Bird Egg",
 							"Spanish (Spain)" : "Huevo de pájaro.",
                             "German" :  "Vogelei",
                             "Turkish" : "Kuş Yumurtası",
-				"Russian" : "Пусто"
+				"Russian" : "Птичье яйцо"
     },
     "GAMEPLAY_BirdEggRawDescription" : {
                             "English" : "The egg of an unidentified bird. Probably, it won't hatch. Don't eat it raw.",
 							"Spanish (Spain)" : "Huevo de un ave sin identificar. Probablemente nunca eclosione. No te lo comas crudo.",
                             "German" :  "Das Ei eines unbekannten Vogels. Vielleicht wird es nicht schlüpfen. Nicht roh essen.",
                             "Turkish" : "Kimliği belirsiz bir kuşun yumurtası. Muhtemelen yumurtadan çıkmayacak. Çiğ yemeyin.",
-				"Russian" : "Пусто"
+				"Russian" : "Яйцо неизвестной птицы. Наверное, уже никогда не проклюнется. Не ешьте сырым."
     },
     "GAMEPLAY_BirdEggBoiled" : {
                             "English" : "Boiled Bird Egg",
 							"Spanish (Spain)" : "Huevo de pájaro cocido.",
                             "German" :  "Gekochtes Vogelei",
                             "Turkish" : "Haşlanmış Kuş Yumurtası",
-				"Russian" : "Пусто"
+				"Russian" : "Свареное яйцо"
     },
     "GAMEPLAY_BirdEggBoiledDescription" : {
                             "English" : "The egg of an unidentified bird. Boiled and ready to eat.",
 							"Spanish (Spain)" : "Huevo de un ave sin identificar. Cocido y listo para comer.",
                             "German":  "Das Ei eines unbekannten Vogels. Gekocht und fertig zum Essen.",
                             "Turkish" : "Kimliği belirsiz bir kuşun yumurtası. Haşlanmış ve yemeye hazır.",
-				"Russian" : "Пусто"
+				"Russian" : "Яйцо неизвестно птицы. Сварено и готово к употреблению."
     },		
 	"GAMEPLAY_OrcaCarcass1" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки"
     },
     "GAMEPLAY_OrcaCarcass1Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки."
     },
 	"GAMEPLAY_OrcaCarcass2" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки"
     },
     "GAMEPLAY_OrcaCarcass2Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки."
     },
 	"GAMEPLAY_OrcaCarcassRavaged1" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки"
     },
     "GAMEPLAY_OrcaCarcassRavaged1Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки."
     },
 	"GAMEPLAY_OrcaCarcassRavaged2" : {
                             "English" : "Orca Carcass",
 							"Spanish (Spain)" : "Orca",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки"
     },
     "GAMEPLAY_OrcaCarcassRavaged2Description" : {
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Туша касатки."
     },
 	"GAMEPLAY_OrcaQuarter" : {
                             "English" : "Orca Quarter",
 							"Spanish (Spain)" : "Pedazo de orca",
                             "German" :  "Orcaviertel",
                             "Turkish" : "Katil Balina Çeyreği",
-				"Russian" : "Пусто"
+				"Russian" : "Четверть туши касатки"
     },
     "GAMEPLAY_OrcaQuarterDescription" : {
                             "English" : "Meat lump from an orca carcass. Might be useful.",
 							"Spanish (Spain)" : "Trozo de carne proveniente del cadáver de una orca.Quizás sea de utilidad.",
                             "German" :  "Fleischklumpen eines Orcakadavers. Könnte nützlich sein.",
                             "Turkish" : "",
-				"Russian" : "Пусто"
+				"Russian" : "Большой кусок туши касаки. Может быть полезен."
     },
 	"GAMEPLAY_OrcaFat" : {
                             "English" : "Orca Blubber",
 							"Spanish (Spain)" : "Grasa de orca",
                             "German" : "Orcaspeck",
                             "Turkish" : "Balina Yağı",
-				"Russian" : "Пусто"
+				"Russian" : "Жир касатки"
     },
     "GAMEPLAY_OrcaFatDescription" : {
                             "English" : "Lump of blubber harvested from an orca carcass. It's oily and stinks a lot. You could find some use to it.",
 							"Spanish (Spain)" : "Trozo de grasa proveniente del cadáver de una orca. Está aceitoso y apesta una barvaridad. Quizás puedas encontrarle algún uso.",
                             "German" :  "Speckklumpen eines Orcakadavers. Es ist ölig und stinkt sehr. Vielleicht findest du dafür einen Nutzen.",
                             "Turkish" : "Bir katil balina leşinden hasat edilmiş balina yağı parçası. Yağlı ve çok kokuyor. Biraz faydasını görebilirsin.",
-				"Russian" : "Пусто"
+				"Russian" : "Кусок жира касатки. Маслянистый и сильно воняющий. Может оказаться полезным."
     },
 	"GAMEPLAY_FuelOrca" : {
                             "English" : "Orca Oil",
 							"Spanish (Spain)" : "Aceite de orca",
                             "German" :  "Orcaöl",
                             "Turkish" : "Sıvı Balina Yağı",
-				"Russian" : "Пусто"
+				"Russian" : "Масло касатки"
     },
     "GAMEPLAY_FuelOrcaDescription" : {
                             "English" : "Oil obtained from blubber. Refuel your lamp with this.",
 							"Spanish (Spain)" : "Aceite obtenido de la grasa de una ballena. Rellena tu lámpara con esto.",
                             "German" :  "Aus Speck gewonnenes Öl. Befüllen Sie damit Ihre Laterne.",
                             "Turkish" : "Katil Balina yağından elde edilen sıvı yağ. Lambanızı bununla doldurun.",
-				"Russian" : "Пусто"
+				"Russian" : "Масло из жира касатки. Им можно заправить лампу."
     },
 	"GAMEPLAY_OrcaMeatRaw" : {
                             "English" : "Raw Orca Meat",
 							"Spanish (Spain)" : "Carne cruda de orca",
                             "German" :  "Rohes Orcafleisch",
                             "Turkish" : "Ham Katil Balina Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Сырое мясо косатки"
     },
     "GAMEPLAY_OrcaMeatRawDescription" : {
                             "English" : "Meat harvested from an orca carcass. A bit greasy to the touch. You heard somewhere people have eaten whales before.",
 							"Spanish (Spain)" : "Carne proveniente del cadáver de una orca. Un poco grasienta al tacto. Jurarías haber escuchado que la gente ha comido ballenas alguna vez.",
                             "German" :  "Fleisch von einem Orcakadaver. Fühlt sich etwas fettig an. Dass Menschen schon einmal Wale gegessen haben, hast du schon gehört.",
                             "Turkish" : "Bir katil balina ölüsünden hasat edilen et. Dokunmak için biraz yağlı. Daha önce bir yerde insanların balina yediğini duymuşsunuzdur.",
-				"Russian" : "Пусто"
+				"Russian" : "Мясо добытое из туши косатки. Жирное на ощупь. Вы где-то слышали, что раньше люди ели китов."
     },	
 	"GAMEPLAY_OrcaMeatCooked" : {
                             "English" : "Cooked Orca Meat",
 							"Spanish (Spain)" : "Carne cocinada de orca",
                             "German" :  "Gekochtes Orcafleisch",
                             "Turkish" : "Pişmiş Katil Balina Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Приготовленное мясо косатки"
     },
     "GAMEPLAY_OrcaMeatCookedDescription" : {
                             "English" : "Meat from an orca. A bit greasy to the touch. Doesn't look half bad.",
 							"Spanish (Spain)" : "Carne proveniente de una orca. Un poco grasienta al tacto. No tiene mala pinta.",
                             "German" :  "Fleisch eines Orcas. Fühlt sich etwas fettig an. Sieht gar nicht so schlecht aus.",
                             "Turkish" : "Katil Balina eti. Dokunmak için biraz yağlı. Yarı kötü görünmüyor.",
-				"Russian" : "Пусто"
+				"Russian" : "Мясо косатки. Жирное на ощупь. Выглядит не так уж и плохо."
     },
     "GAMEPLAY_SaltedMeatOrca" : {
                             "English" : "Salted Orca Meat",
 							"Spanish (Spain)" : "Carne de orca salada",
                             "German" :  "Gesalzenes Orcafleisch",
                             "Turkish" : "Tuzlanmış Katil Balina Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное мясо косатки"
     },
     "GAMEPLAY_SaltedMeatOrcaDescription" : {
                             "English" : "Meat harvested from an orca, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de una orca, salada para secarse.",
                             "German" :  "Fleisch von einem Orca, gesalzen um zu trocknen.",
                             "Turkish" : "Katil Balinadan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное мясо косатки. Готовое к сушке."
     },
     "GAMEPLAY_CuredMeatOrca" : {
                             "English" : "Cured Orca Meat",
 							"Spanish (Spain)" : "Carne de orca curada",
                             "German" :  "Getrocknetes Orcafleisch",
                             "Turkish" : "Tütsülenmiş Katil Balina Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое мясо косатки"
     },
     "GAMEPLAY_CuredMeatOrcaDescription" : {
                             "English" : "Meat harvested from an orca, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de una orca, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Orca, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Katil Balinadan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое мясо косатки. Оно портится не так быстро."
     },	
 	"GAMEPLAY_BeeHive" : {
                             "English" : "Hive",
 							"Spanish (Spain)" : "Colmena",
                             "German" :  "Bienenstock",
                             "Turkish" : "Arı Kovanı",
-				"Russian" : "Пусто"
+				"Russian" : "Улей"
     },
     "GAMEPLAY_BeeHiveDescription" : {
                             "English" : "A frozen bee hive, a rare sight these days. Maybe you could still get something of use out of it. Looks abandoned, and bees won't come back any time soon.",
 							"Spanish (Spain)" : "Una colmena de abejas congelada, algo dificil de ver estos días. Quizás aún le puedas sacar algo de valor. Parece abandonado, y no parece que las abejas vayan a volver pronto.",
                             "German" :  "Ein gefrorener Bienenstock, heutzutage ein seltener Anblick. Vielleicht kann man etwas Brauchbares daraus machen. Sieht verlassen aus und die Bienen werden wohl nicht so schnell zurückkommen.",
                             "Turkish" : "Donmuş bir arı kovanı, bugünlerde nadir görülen bir manzara. Belki yine de ondan işe yarar bir şeyler alabilirsin. Terk edilmiş görünüyor ve arılar yakın zamanda geri gelmeyecek.",
-				"Russian" : "Пусто"
+				"Russian" : "Замороженый улей, редкое зрелище. Наверняка можно добыть что-то полезное. Выглядит заброшеным, в ближайшее время пчелы не вернутся сюда."
     },
 	"GAMEPLAY_BeeHarvestedHoney" : {
                             "English" : "Honey",
 							"Spanish (Spain)" : "Miel",
                             "German" :  "Honig",
                             "Turkish" : "Bal",
-				"Russian" : "Пусто"
+				"Russian" : "Мёд"
     },
     "GAMEPLAY_BeeHarvestedHoneyDescription" : {
                             "English" : "Natural honey, extracted from a bee hive. Sweet and full of energy.",
 							"Spanish (Spain)" : "Miel natural, extraida de una colmena de abejas. Dulce y llena de energía.",
                             "German" :  "Natürlicher Honig, aus einem Bienenstock extrahiert. Süß und voller Energie.",
                             "Turkish" : "Arı Kovanından çıkarılmış doğal bal. Tatlı ve bol enerjili",
-				"Russian" : "Пусто"
+				"Russian" : "Натуральный мёд из улья. Сладкий и питательный."
     },
 	"GAMEPLAY_NestEmpty" : {
                             "English" : "Empty Nest",
 							"Spanish (Spain)" : "Nido vacío",
                             "German" :  "Leeres Nest",
                             "Turkish" : "Boş Kuş Yuvası",
-				"Russian" : "Пусто"
+				"Russian" : "Пустое гнездо"
     },
     "GAMEPLAY_NestEmptyDescription" : {
                             "English" : "The nest from an unidentified bird, completely abandoned. A good source of sticks.",
 							"Spanish (Spain)" : "Un nido de un pajaro sin identificar, completamente abandonado. Una buena fuente de palos.",
                             "German" : "Das Nest eines unbekannten Vogels, komplett verlassen. Eine gute Quelle für Stöcke.",
                             "Turkish" : "Tanımlanamayan bir kuşun yuvası tamamen terk edilmiş. İyi bir çubuk kaynağı.",
-				"Russian" : "Пусто"
+				"Russian" : "Гнездо неизвестной птицы, совершенно бесхозное. Хороший источник палок."
     },	
 	"GAMEPLAY_4FirCone" : {
                             "English" : "Fir Cone",
 							"Spanish (Spain)" : "Piña de abeto",
                             "German" :  "Tannenzapfen",
                             "Turkish" : "Köknar kozalağı",
-				"Russian" : "Пусто"
+				"Russian" : "Кедровая шишка"
     },
     "GAMEPLAY_4FirConeDescription" : {
                             "English" : "A cone from a fir tree, full of edible seeds.",
 							"Spanish (Spain)" : "Piña de abeto llena de semillas comestibles.",
                             "German" :  "Ein Zapfen eines Tannenbaumes, voll mit essbaren Samen.",
                             "Turkish" : "Yenilebilir tohumlarla dolu bir köknar ağacından bir kozalak.",
-				"Russian" : "Пусто"
+				"Russian" : "Шишка кедровго дерева, полная съедобных семечек."
     },
 	"GAMEPLAY_4FirConeSingle" : {
                             "English" : "cone.",
 							"Spanish (Spain)" : "piña.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalak",
-				"Russian" : "Пусто"
+				"Russian" : "Шишка"
     },
     "GAMEPLAY_4FirConeMultiple" : {
                             "English" : "cones.",
 							"Spanish (Spain)" : "piñas.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalaklar",
-				"Russian" : "Пусто"
+				"Russian" : "Шишки"
     },		
 	"GAMEPLAY_1FirConeFuel" : {
                             "English" : "Fir Cone",
 							"Spanish (Spain)" : "Piña de abeto",
                             "German" :  "Tannenzapfen",
                             "Turkish" : "Köknar Kozalağı",
-				"Russian" : "Пусто"
+				"Russian" : "Кедровая шишка"
     },
     "GAMEPLAY_1FirConeFuelDescription" : {
                             "English" : "A cone from a fir tree, whose seeds have been removed. Can be used to fuel a fire.",
 							"Spanish (Spain)" : "Piña de abeto a la que se le han extraido las semillas. Puede usarse como combustible para fogatas.",
                             "German" :  "Ein Zapfen eines Tannenbaumes, dessen Samen entfernt wurden. Kann als nützlicher Brennstoff verwendet werden.",
                             "Turkish" : "Tohumları çıkarılmış bir köknar ağacının kozalağı. Ateş yakmak için kullanılabilir.",
-				"Russian" : "Пусто"
+				"Russian" : "Шишка кедровго дерева без семян. Можно использовать как топливо для костра."
     },
 	"GAMEPLAY_1FirConeFuelSingle" : {
                             "English" : "cone.",
 							"Spanish (Spain)" : "piña.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalak",
-				"Russian" : "Пусто"
+				"Russian" : "Шишка"
     },
     "GAMEPLAY_1FirConeFuelMultiple" : {
                             "English" : "cones.",
 							"Spanish (Spain)" : "piñas.",
                             "German" :  "Zapfen",
                             "Turkish" : "Kozalaklar",
-				"Russian" : "Пусто"
+				"Russian" : "Шишки"
     },		
 	"GAMEPLAY_3FirConeSeeds" : {
                             "English" : "Fir Seeds",
 							"Spanish (Spain)" : "Piñones",
                             "German" :  "Tannensamen",
                             "Turkish" : "Köknar Ağacı Tohumları",
-				"Russian" : "Пусто"
+				"Russian" : "Кедровые семечи"
     },
     "GAMEPLAY_3FirConeSeedsDescription" : {
                             "English" : "The seeds of a fir tree. Can be roasted to make a light snack.",
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Se pueden asar y comer como aperitivo.",
                             "German" :  "Die Samen eines Tannenbaumes. Können für einen leichten Snack geröstet werden.",
                             "Turkish" : "Köknar ağacının tohumları. Hafif bir atıştırmalık yapmak için kavrulabilir.",
-				"Russian" : "Пусто"
+				"Russian" : "Семечки кедрового дерева. Можно поджарить для легкого перекуса."
     },
 	"GAMEPLAY_2FirSeedBunch" : {
                             "English" : "Fir Seeds (Bunch)",
 							"Spanish (Spain)" : "Piñones (Montón)",
                             "German" :  "Tannensamen (Bündel)",
                             "Turkish" : "Köknar Tohumları (Bir Demet)",
-				"Russian" : "Пусто"
+				"Russian" : "Кедровые семечи (горсть)"
 	},
     "GAMEPLAY_2FirSeedBunchDescription" : {
                             "English" : "The seeds of a fir tree. Can be roasted to make a light snack.",
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Se pueden asar y comer como aperitivo.",
                             "German" :  "Die Samen eines Tannenbaumes. Können für einen leichten Snack geröstet werden.",
                             "Turkish" : "Köknar ağacının tohumları. Hafif bir atıştırmalık yapmak için kavrulabilir.",
-				"Russian" : "Пусто"
+				"Russian" : "Семечки кедрового дерева. Можно поджарить для легкого перекуса."
     },
 	"GAMEPLAY_3FirConeSeedsSingle" : {
                             "English" : "heap.",
 							"Spanish (Spain)" : "puñado.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Пусто"
+				"Russian" : "Горсть"
     },
     "GAMEPLAY_3FirConeSeedsMultiple" : {
                             "English" : "heaps.",
 							"Spanish (Spain)" : "puñados.",
                             "German" :  "Haufen",
                             "Turkish" : "yığınlar",
-				"Russian" : "Пусто"
+				"Russian" : "Горсти"
     },
 	"GAMEPLAY_2FirConeSeedsRoasted" : {
                             "English" : "Roasted Fir Seeds",
 							"Spanish (Spain)" : "Piñones asados",
                             "German" :  "Geröstete Tannensamen",
                             "Turkish" : "Kavrulmuş Köknar Tohumları",
-				"Russian" : "Пусто"
+				"Russian" : "Жареные кедровые семечки"
     },
     "GAMEPLAY_2FirConeSeedsRoastedDescription" : {
                             "English" : "The seeds of a fir tree. Roasted and ready to eat.",
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Asadas y listas para comer.",
                             "German" :  "Die Samen eines Tannenbaumes. Geröstet und fertig zum Essen.",
                             "Turkish" : "Köknar ağacının tohumları. Kavrulmuş ve yenmeye hazır hale getirilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Готовые к употреблению жареные кедровые семечки."
     },
 	"GAMEPLAY_1FirSeedBunchRoasted" : {
                             "English" : "Roasted Fir Seeds (Bunch)",
 							"Spanish (Spain)" : "Piñones asados (Puñado)",
                             "German" :  "Geröstete Tannensamen (Bündel)",
                             "Turkish" : "Kavrulmuş Köknar Tohumları (Bir Demet)",
-				"Russian" : "Пусто"
+				"Russian" : "Жареные кедровые семечки (горсть)"
 	},
     "GAMEPLAY_1FirSeedBunchRoastedDescription" : {
                             "English" : "The seeds of a fir tree. Roasted and ready to eat.",
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Asadas y listas para comer.",
                             "German" :  "Die Samen eines Tannenbaumes. Geröstet und fertig zum Essen.",
                             "Turkish" : "Köknar ağacının tohumları. Kavrulmuş ve yenmeye hazır hale getirilmiş",
-				"Russian" : "Пусто"
+				"Russian" : "Готовые к употреблению жареные кедровые семечки."
     },
 	"GAMEPLAY_2FirConeSeedsRoastedSingle" : {
                             "English" : "heap.",
 							"Spanish (Spain)" : "puñado.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Пусто"
+				"Russian" : "Горсть"
     },
     "GAMEPLAY_2FirConeSeedsRoastedMultiple" : {
                             "English" : "heaps.",
 							"Spanish (Spain)" : "puñados.",
                             "German" :  "Haufen",
                             "Turkish" : "yığın",
-				"Russian" : "Пусто"
+				"Russian" : "Горсти"
     },
 	"GAMEPLAY_Halite" : {
                             "English" : "Halite",
 							"Spanish (Spain)" : "Halita",
                             "German" :  "Halit",
                             "Turkish" : "Kaya Tuzu",
-				"Russian" : "Пусто"
+				"Russian" : "Галит"
     },
     "GAMEPLAY_HaliteDescription" : {
                             "English" : "Salt rock, mined across Great Bear.",
 							"Spanish (Spain)" : "Roca de sal, minada por toda Gran Oso.",
                             "German" : "Salzstein, auf Großer Bär abgebaut.",
                             "Turkish" : "Great Bear madeninden çıkarılan Kaya tuzu.",
-				"Russian" : "Пусто"
+				"Russian" : "Каменная соль, добытая на просторах Великого Медведя."
     },
 	"GAMEPLAY_HaliteSmall" : {
                             "English" : "Halite",
 							"Spanish (Spain)" : "Halita",
                             "German" :  "Halit",
                             "Turkish" : "Kaya Tuzu",
-				"Russian" : "Пусто"
+				"Russian" : "Галит"
     },
     "GAMEPLAY_HaliteSmallDescription" : {
                             "English" : "Salt rock, mined across Great Bear.",
 							"Spanish (Spain)" : "Roca de sal, minada por toda Gran Oso.",
                             "German" : "Salzstein, auf Großer Bär abgebaut.",
                             "Turkish" : "Great Bear madeninden çıkarılan Kaya tuzu.",
-				"Russian" : "Пусто"
+				"Russian" : "Каменная соль, добытая на просторах Великого Медведя."
     },
 	"GAMEPLAY_CoalChunk" : {
                             "English" : "Coal Chunk",
 							"Spanish (Spain)" : "Pedazo de carbón",
                             "German" :  "Kohlebrocken",
                             "Turkish" : "Kömür Parçası",
-				"Russian" : "Пусто"
+				"Russian" : "Кусок угля"
 	},
     "GAMEPLAY_CoalChunkDescription" : {
                             "English" : "A coal formation. Break it in smaller pieces to use them.",
