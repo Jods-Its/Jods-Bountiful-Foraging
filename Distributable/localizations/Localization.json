@@ -4,14 +4,14 @@
 								"Spanish (Spain)" : "Cadáver de cuervo",
                             "German" :  "Krähenkadaver",
                             "Turkish" : "Karga Ölüsü",
-				"Russian" : "Пусто"
+				"Russian" : "Тушка вороны"
     },
     "GAMEPLAY_CrowCarcassDescription" : {
                             "English" : "The carcass of a crow. Can be harvested but... is that really a good idea?",
-							"Spanish (Spain)" : "El cadáver de un cuervo. Se puede sacar algo de él pero...¿Realmente es una buena idea?.",
+							"Spanish (Spain)" : "El cadáver de un cuervo. Se puede sacar algo de él pero...¿Realmente es una buena idea?",
                             "German" : "Der Kadaver einer Krähe. Kann zerlegt werden... aber ist das wirklich eine gute Idee?",
                             "Turkish" : "Karga leşi. Hasat edilebilir ama... bu gerçekten iyi bir fikir mi bilemem?",
-				"Russian" : "Пусто"
+				"Russian" : "Тушка вороны которую можно собрать... но хорошая ли это идея?"
 
     },
     "GAMEPLAY_BirdMeatRaw" : {
@@ -19,7 +19,7 @@
 							"Spanish (Spain)" : "Carne de cuervo",
                             "German" :  "Krähenfleisch",
                             "Turkish" : "Karga Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Воронье мясо"
 
     },
     "GAMEPLAY_BirdMeatRawDescription" : {
@@ -27,7 +27,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. No te lo comas crudo.",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Nicht roh essen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Çiğ yemeyin.",
-				"Russian" : "Пусто"
+				"Russian" : "Добытое воронье мясо. Не полноценная еда, посредственный вкус, но это всё еще пища. Не ешьте сырым."
 
     },
     "GAMEPLAY_BirdMeatCooked" : {
@@ -35,182 +35,182 @@
 							"Spanish (Spain)" : "Carne de cuervo asada",
                             "German" :  "Gebratenes Krähenfleisch",
                             "Turkish" : "Kavrulmuş Karga Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Жареное воронье мясо"
     },
     "GAMEPLAY_BirdMeatCookedDescription" : {
                             "English" : "Meat harvested from a crow. Not precisely a four course meal, and not very pleasant, but it's food. Looks like chicken if you don't think much about it.",
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. Parece pollo, si no lo piensas demasaido..",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Sieht aus wie Hühnchen, wenn man nicht viel darüber nachdenkt.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Fazla düşünmezsen tadı tavuk gibi geliyor.",
-				"Russian" : "Пусто"
+				"Russian" : "Добытое воронье мясо. Не полноценная еда, посредственный вкус, но это всё еще пища. Выглядит как курица, если не задумываться."
     },
     "GAMEPLAY_SaltedMeatBird" : {
                             "English" : "Salted Crow Meat",
 							"Spanish (Spain)" : "Carne de cuervo salada",
                             "German" :  "Gesalzenes Krähenfleisch",
                             "Turkish" : "Tuzlanmış Karga Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное воронье мясо"
     },
     "GAMEPLAY_SaltedMeatBirdDescription" : {
                             "English" : "Meat harvested from a crow, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, salada para secarse.",
                             "German" :  "Fleisch von einer Krähe, gesalzen um zu trocknen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzlanmış ve bir süre dinlendirilmiş",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное воронье мясо, готовое к сушке."
     },
     "GAMEPLAY_CuredMeatBird" : {
                             "English" : "Cured Crow Meat",
 							"Spanish (Spain)" : "Carne de cuervo curada",
                             "German" :  "Getrocknetes Krähenfleisch",
                             "Turkish" : "Tütsülenmiş Karga Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое воронье мясо"
     },
     "GAMEPLAY_CuredMeatBirdDescription" : {
                             "English" : "Meat harvested from a crow, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einer Krähe, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое с помощью соли воронье мясо. Оно портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatRabbit" : {
                             "English" : "Salted Rabbit Meat",
 							"Spanish (Spain)" : "Carne de conejo salada",
                             "German" :  "Gesalzenes Kaninchenfleisch",
                             "Turkish" : "Tuzlanmış Tavşan Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная крольчатина"
     },
     "GAMEPLAY_SaltedMeatRabbitDescription" : {
                             "English" : "Meat harvested from a rabbit, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un conejo, salada para secarse.",
                             "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная крольчатина, готовая к сушке."
     },
     "GAMEPLAY_CuredMeatRabbit" : {
                             "English" : "Cured Rabbit Meat",
 							"Spanish (Spain)" : "Carne de conejo curada",
                             "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen.",
                             "Turkish" : "Tütsülenmiş Tavşan Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая крольчатина"
     },
     "GAMEPLAY_CuredMeatRabbitDescription" : {
                             "English" : "Meat harvested from a rabbit, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un conejo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Kaninchen, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая крольчатина. Она портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatVenison" : {
                             "English" : "Salted Venison Meat",
 							"Spanish (Spain)" : "Carne de venado salada",
                             "German" :  "Gesalzenes Wildfleisch",
                             "Turkish" : "Tuzlanmış Geyik Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная оленина"
     },
     "GAMEPLAY_SaltedMeatVenisonDescription" : {
                             "English" : "Meat harvested from a deer or doe, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un venado, salada para secarse.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, gesalzen um zu trocknen.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная оленина, готовая к сушке."
     },
     "GAMEPLAY_CuredMeatVenison" : {
                             "English" : "Cured Venison Meat",
 							"Spanish (Spain)" : "Carne de venado curada",
                             "German" :  "Getrocknetes Wildfleisch",
                             "Turkish" : "Tütsülenmiş Geyik Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая оленина"
     },
     "GAMEPLAY_CuredMeatVenisonDescription" : {
                             "English" : "Meat harvested from a deer or doe, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un venado, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая оленина. Она портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatMoose" : {
                             "English" : "Salted Moose Meat",
 							"Spanish (Spain)" : "Carne de alce salada",
                             "German" : "Gesalzenes Elchfleisch",
                             "Turkish" : "Tuzlanmış Amerikan Geyiği Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное мясо лося"
     },
     "GAMEPLAY_SaltedMeatMooseDescription" : {
                             "English" : "Meat harvested from a moose, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un alce, salada para secarse.",
                             "German" :  "Fleisch von einem Elch, gesalzen um zu trocknen",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленное мясо лося, готовое к сушке."
     },
     "GAMEPLAY_CuredMeatMoose" : {
                             "English" : "Cured Moose Meat",
 							"Spanish (Spain)" : "Carne de alce curada",
                             "German" :  "Getrocknetes Elchfleisch",
                             "Turkish" : "Tütsülenmiş Amerikan Geyiği Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое мясо лося"
     },
     "GAMEPLAY_CuredMeatMooseDescription" : {
                             "English" : "Meat harvested from a moose, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un alce, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Elch, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленое мясо лося. Оно портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatBear" : {
                             "English" : "Salted Bear Meat",
 							"Spanish (Spain)" : "Carne de oso salada",
                             "German" :  "Gesalzenes Bärenfleisch",
                             "Turkish" : "Tuzlanmış Ayı Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная медвежатина"
     },
     "GAMEPLAY_SaltedMeatBearDescription" : {
                             "English" : "Meat harvested from a bear, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un oso, salada para secarse.",
                             "German" :  "Fleisch von einem Bären, gesalzen um zu trocknen.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная медвежатина, готовая к сушке."
     },
     "GAMEPLAY_CuredMeatBear" : {
                             "English" : "Cured Bear Meat",
 							"Spanish (Spain)" : "Carne de oso curada",
                             "German" :  "Getrocknetes Bärenfleisch",
                             "Turkish" : "Tütsülenmiş Ayı Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая медвежатина"
     },
     "GAMEPLAY_CuredMeatBearDescription" : {
                             "English" : "Meat harvested from a bear, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un oso, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Bären, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая медвежатина. Она портится не так быстро."
     },
     "GAMEPLAY_SaltedMeatWolf" : {
                             "English" : "Salted Wolf Meat",
 							"Spanish (Spain)" : "Carne de lobo salada",
                             "German" :  "Gesalzenes Wolfsfleisch",
                             "Turkish" : "Tuzlanmış Kurt Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная волчатина"
     },
     "GAMEPLAY_SaltedMeatWolfDescription" : {
                             "English" : "Meat harvested from a wolf, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un lobo, salada para secarse.",
                             "German" :  "Fleisch von einem Wolf, gesalzen um zu trocknen.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-				"Russian" : "Пусто"
+				"Russian" : "Просоленная волчатина, готовая к сушке."
     },
     "GAMEPLAY_CuredMeatWolf" : {
                             "English" : "Cured Wolf Meat",
 							"Spanish (Spain)" : "Carne de lobo curada",
                             "German":  "Getrocknetes Wolfsfleisch",
                             "Turkish" : "Tütsülenmiş Kurt Eti",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая волчатина"
     },
     "GAMEPLAY_CuredMeatWolfDescription" : {
                             "English" : "Meat harvested from a wolf, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un lobo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Wolf, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-				"Russian" : "Пусто"
+				"Russian" : "Вяленая волчатина. Она портится не так быстро."
     },
 	"GAMEPLAY_SaltedMeatPtarmigan" : {
                             "English" : "Salted Ptarmigan Meat",
