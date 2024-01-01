@@ -291,7 +291,7 @@
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-	    		    "Italian" : "Carcassa di Orca"
+	    		    "Italian" : "Carcassa di Orca."
     },
 	"GAMEPLAY_OrcaCarcass2" : {
                             "English" : "Orca Carcass",
@@ -305,7 +305,7 @@
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-	    		    "Italian" : "Carcassa di Orca"
+	    		    "Italian" : "Carcassa di Orca."
     },
 	"GAMEPLAY_OrcaCarcassRavaged1" : {
                             "English" : "Orca Carcass",
@@ -318,7 +318,8 @@
                             "English" : "Orca Carcass.",
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
-                            "Turkish" : "Katil Balina Ölüsü"
+                            "Turkish" : "Katil Balina Ölüsü",
+	    		    "Italian" : "Carcassa di Orca."
     },
 	"GAMEPLAY_OrcaCarcassRavaged2" : {
                             "English" : "Orca Carcass",
@@ -332,7 +333,7 @@
 							"Spanish (Spain)" : "Orca.",
                             "German" :  "Orcakadaver",
                             "Turkish" : "Katil Balina Ölüsü",
-	    		    "Italian" : "Carcassa di Orca"
+	    		    "Italian" : "Carcassa di Orca."
     },
 	"GAMEPLAY_OrcaQuarter" : {
                             "English" : "Orca Quarter",
