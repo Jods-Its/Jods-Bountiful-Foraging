@@ -11,7 +11,7 @@
 							"Spanish (Spain)" : "El cadáver de un cuervo. Se puede sacar algo de él pero...¿Realmente es una buena idea?.",
                             "German" : "Der Kadaver einer Krähe. Kann zerlegt werden... aber ist das wirklich eine gute Idee?",
                             "Turkish" : "Karga leşi. Hasat edilebilir ama... bu gerçekten iyi bir fikir mi bilemem?",
-	    		    "Italian" : "La carcassa di un corvo. Può essere raccolto ma...è veramente una buona idea?"
+	    		    "Italian" : "La carcassa di un corvo. Può essere raccolta ma...è veramente una buona idea?"
     },
     "GAMEPLAY_BirdMeatRaw" : {
                             "English" : "Crow Meat",
@@ -25,7 +25,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. No te lo comas crudo.",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Nicht roh essen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Çiğ yemeyin.",
-	                    "Italian" : "Carne raccolto da un corvo. Non è un pasto a quattro portate, e non è molto piacevole, ma è cibo. Non mangiarlo crudo."
+	                    "Italian" : "Carne raccolta da un corvo. Non è un pasto a quattro portate, e non è molto piacevole, ma è cibo. Non mangiarla crudo."
     },
     "GAMEPLAY_BirdMeatCooked" : {
                             "English" : "Roasted Crow Meat",
@@ -39,7 +39,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. Parece pollo, si no lo piensas demasaido..",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Sieht aus wie Hühnchen, wenn man nicht viel darüber nachdenkt.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Fazla düşünmezsen tadı tavuk gibi geliyor.",
-	    		    "Italian" : "Carne raccolto da un corvo. Non è un pasto a quattro portate, e non è molto piacevole, ma è cibo. Sembra come il pollo se non ci pensi troppo."
+	    		    "Italian" : "Carne raccolta da un corvo. Non è un pasto a quattro portate, e non è molto piacevole, ma è cibo. Sembra come il pollo se non ci pensi troppo."
     },
     "GAMEPLAY_SaltedMeatBird" : {
                             "English" : "Salted Crow Meat",
@@ -53,161 +53,161 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, salada para secarse.",
                             "German" :  "Fleisch von einer Krähe, gesalzen um zu trocknen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzlanmış ve bir süre dinlendirilmiş",
-	    		    "Italian" : "Carne raccolto da un corvo, salato per essiccarlo."
+	    		    "Italian" : "Carne raccolta da un corvo, salata per essiccarla."
     },
     "GAMEPLAY_CuredMeatBird" : {
                             "English" : "Cured Crow Meat",
 							"Spanish (Spain)" : "Carne de cuervo curada",
                             "German" :  "Getrocknetes Krähenfleisch",
                             "Turkish" : "Tütsülenmiş Karga Eti",
-	    		    "Italian" : "Carne di Corvo Essiccato"
+	    		    "Italian" : "Carne di Corvo Essiccata"
     },
     "GAMEPLAY_CuredMeatBirdDescription" : {
                             "English" : "Meat harvested from a crow, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un cuervo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einer Krähe, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-	    		    "Italian" : "Carne raccolto da un corvo, essiccato con il sale. Richiede più tempo prima che vada male."
+	    		    "Italian" : "Carne raccolta da un corvo, essiccata con il sale. Richiede più tempo prima che vada male."
     },
     "GAMEPLAY_SaltedMeatRabbit" : {
                             "English" : "Salted Rabbit Meat",
 							"Spanish (Spain)" : "Carne de conejo salada",
                             "German" :  "Gesalzenes Kaninchenfleisch",
                             "Turkish" : "Tuzlanmış Tavşan Eti",
-	    		    "Italian" : "Carne di Coniglio Salato"
+	    		    "Italian" : "Carne di Coniglio Salata"
     },
     "GAMEPLAY_SaltedMeatRabbitDescription" : {
                             "English" : "Meat harvested from a rabbit, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un conejo, salada para secarse.",
                             "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-	    		    "Italian" : "Carne raccolto da un coniglio, salato per essiccarlo."
+	    		    "Italian" : "Carne raccolta da un coniglio, salata per essiccarla."
     },
     "GAMEPLAY_CuredMeatRabbit" : {
                             "English" : "Cured Rabbit Meat",
 							"Spanish (Spain)" : "Carne de conejo curada",
                             "German" :  "Fleisch eines Kaninchens, gesalzen um zu trocknen.",
                             "Turkish" : "Tütsülenmiş Tavşan Eti",
-	    		    "Italian" : "Carne di Coniglio Essiccato"
+	    		    "Italian" : "Carne di Coniglio Essiccata"
     },
     "GAMEPLAY_CuredMeatRabbitDescription" : {
                             "English" : "Meat harvested from a rabbit, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un conejo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Kaninchen, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir tavşandan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-	    		    "Italian" : "Carne raccolto da un coniglio, essiccato con il sale. Richiede più tempo prima che vada male."
+	    		    "Italian" : "Carne raccolta da un coniglia, essiccata con il sale. Richiede più tempo prima che vada male."
     },
     "GAMEPLAY_SaltedMeatVenison" : {
                             "English" : "Salted Venison Meat",
 							"Spanish (Spain)" : "Carne de venado salada",
                             "German" :  "Gesalzenes Wildfleisch",
                             "Turkish" : "Tuzlanmış Geyik Eti",
-	    		    "Italian" : "Carne di Cervo Salato"
+	    		    "Italian" : "Carne di Cervo Salata"
     },
     "GAMEPLAY_SaltedMeatVenisonDescription" : {
                             "English" : "Meat harvested from a deer or doe, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un venado, salada para secarse.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, gesalzen um zu trocknen.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-	    		    "Italian" : "Carne raccolto da un cervo o cerva, salato per essiccarlo."
+	    		    "Italian" : "Carne raccolta da un cervo o cerva, salata per essiccarla."
     },
     "GAMEPLAY_CuredMeatVenison" : {
                             "English" : "Cured Venison Meat",
 							"Spanish (Spain)" : "Carne de venado curada",
                             "German" :  "Getrocknetes Wildfleisch",
                             "Turkish" : "Tütsülenmiş Geyik Eti",
-	    		    "Italian" : "Carne di Cervo Essiccato"
+	    		    "Italian" : "Carne di Cervo Essiccata"
     },
     "GAMEPLAY_CuredMeatVenisonDescription" : {
                             "English" : "Meat harvested from a deer or doe, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un venado, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Hirsch oder Reh, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir geyikten hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-	    		    "Italian" : "Carne raccolto da un cervo o cerva, essiccato con il sale. Richiede più tempo prima che vada male."
+	    		    "Italian" : "Carne raccolta da un cervo o cerva, essiccata con il sale. Richiede più tempo prima che vada male."
     },
     "GAMEPLAY_SaltedMeatMoose" : {
                             "English" : "Salted Moose Meat",
 							"Spanish (Spain)" : "Carne de alce salada",
                             "German" : "Gesalzenes Elchfleisch",
                             "Turkish" : "Tuzlanmış Amerikan Geyiği Eti",
-	    		    "Italian" : "Carne di Alce Salato"
+	    		    "Italian" : "Carne di Alce Salata"
     },
     "GAMEPLAY_SaltedMeatMooseDescription" : {
                             "English" : "Meat harvested from a moose, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un alce, salada para secarse.",
                             "German" :  "Fleisch von einem Elch, gesalzen um zu trocknen",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-	    		    "Italian" : "Carne raccolto da un alce, salato per essiccarlo."
+	    		    "Italian" : "Carne raccolta da un alce, salata per essiccarla."
     },
     "GAMEPLAY_CuredMeatMoose" : {
                             "English" : "Cured Moose Meat",
 							"Spanish (Spain)" : "Carne de alce curada",
                             "German" :  "Getrocknetes Elchfleisch",
                             "Turkish" : "Tütsülenmiş Amerikan Geyiği Eti",
-	    		    "Italian" : "Carne di Alce Essiccato"
+	    		    "Italian" : "Carne di Alce Essiccata"
     },
     "GAMEPLAY_CuredMeatMooseDescription" : {
                             "English" : "Meat harvested from a moose, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un alce, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Elch, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir amerikan geyiğinden hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-	    		    "Italian" : "Carne raccolto da un alce, essiccato con il sale. Richiede più tempo prima che vada male."
+	    		    "Italian" : "Carne raccolta da un alce, essiccata con il sale. Richiede più tempo prima che vada male."
     },
     "GAMEPLAY_SaltedMeatBear" : {
                             "English" : "Salted Bear Meat",
 							"Spanish (Spain)" : "Carne de oso salada",
                             "German" :  "Gesalzenes Bärenfleisch",
                             "Turkish" : "Tuzlanmış Ayı Eti",
-	    		    "Italian" : "Carne d'Orso Salato"
+	    		    "Italian" : "Carne d'Orso Salata"
     },
     "GAMEPLAY_SaltedMeatBearDescription" : {
                             "English" : "Meat harvested from a bear, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un oso, salada para secarse.",
                             "German" :  "Fleisch von einem Bären, gesalzen um zu trocknen.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-	    		    "Italian" : "Carne raccolto da un orso, salato per essiccarlo."
+	    		    "Italian" : "Carne raccolta da un orso, salata per essiccarla."
     },
     "GAMEPLAY_CuredMeatBear" : {
                             "English" : "Cured Bear Meat",
 							"Spanish (Spain)" : "Carne de oso curada",
                             "German" :  "Getrocknetes Bärenfleisch",
                             "Turkish" : "Tütsülenmiş Ayı Eti",
-	    		    "Italian" : "Carne d'Orso Essiccato."
+	    		    "Italian" : "Carne d'Orso Essiccata."
     },
     "GAMEPLAY_CuredMeatBearDescription" : {
                             "English" : "Meat harvested from a bear, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un oso, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Bären, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir Ayıdan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır",
-	    		    "Italian" : "Carne raccolto da un orso, essiccato con il sale. Richiede più tempo prima che vada male."
+	    		    "Italian" : "Carne raccolta da un orso, essiccata con il sale. Richiede più tempo prima che vada male."
     },
     "GAMEPLAY_SaltedMeatWolf" : {
                             "English" : "Salted Wolf Meat",
 							"Spanish (Spain)" : "Carne de lobo salada",
                             "German" :  "Gesalzenes Wolfsfleisch",
                             "Turkish" : "Tuzlanmış Kurt Eti",
-	    		    "Italian" : "Carne di Lupo Salato"
+	    		    "Italian" : "Carne di Lupo Salata"
     },
     "GAMEPLAY_SaltedMeatWolfDescription" : {
                             "English" : "Meat harvested from a wolf, salted to dry it.",
 							"Spanish (Spain)" : "Carne obtenida de un lobo, salada para secarse.",
                             "German" :  "Fleisch von einem Wolf, gesalzen um zu trocknen.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzlanmış ve bir süre bekletilmiş.",
-	    		    "Italian" : "Carne raccolto da un lupo, salato per essiccarlo."
+	    		    "Italian" : "Carne raccolta da un lupo, salata per essiccarla."
     },
     "GAMEPLAY_CuredMeatWolf" : {
                             "English" : "Cured Wolf Meat",
 							"Spanish (Spain)" : "Carne de lobo curada",
                             "German":  "Getrocknetes Wolfsfleisch",
                             "Turkish" : "Tütsülenmiş Kurt Eti",
-	    		    "Italian" : "Carne di Lupo Essiccato"
+	    		    "Italian" : "Carne di Lupo Essiccata"
     },
     "GAMEPLAY_CuredMeatWolfDescription" : {
                             "English" : "Meat harvested from a wolf, dried with salt. Will take longer to go bad.",
 							"Spanish (Spain)" : "Carne obtenida de un lobo, secada con sal. Tardará más tiempo en ponerse mala.",
                             "German" :  "Fleisch von einem Wolf, mit Salz getrocknet. Verdirbt nicht so schnell.",
                             "Turkish" : "Bir kurttan hasat edilen et. Tuzda bekletilmiş. Bozulması uzun zaman alır.",
-	    		    "Italian" : "Carne raccolto da un lupo, essiccato con il sale. Richiede più tempo prima che vada male."
+	    		    "Italian" : "Carne raccolta da un lupo, essiccata con il sale. Richiede più tempo prima che vada male."
     },
 	"GAMEPLAY_SaltedMeatPtarmigan" : {
                             "English" : "Salted Ptarmigan Meat",
@@ -361,7 +361,7 @@
 							"Spanish (Spain)" : "Trozo de grasa proveniente del cadáver de una orca. Está aceitoso y apesta una barvaridad. Quizás puedas encontrarle algún uso.",
                             "German" :  "Speckklumpen eines Orcakadavers. Es ist ölig und stinkt sehr. Vielleicht findest du dafür einen Nutzen.",
                             "Turkish" : "Bir katil balina leşinden hasat edilmiş balina yağı parçası. Yağlı ve çok kokuyor. Biraz faydasını görebilirsin."
-	    		    "Italian" : "Massa di grasso raccolto da una carcassa di orca. È oleosa e puzza tanto. Potresti trovare qualche utilità."
+	    		    "Italian" : "Massa di grasso raccolto da una carcassa di orca. È oleoso e puzza tanto. Potresti trovare qualche utilità."
     },
 	"GAMEPLAY_FuelOrca" : {
                             "English" : "Orca Oil",
@@ -543,7 +543,7 @@
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Se pueden asar y comer como aperitivo.",
                             "German" :  "Die Samen eines Tannenbaumes. Können für einen leichten Snack geröstet werden.",
                             "Turkish" : "Köknar ağacının tohumları. Hafif bir atıştırmalık yapmak için kavrulabilir.",
-	    		    "Italian" : "Semi di una pigna. Possono essere arrostite per creare uno spuntino leggero."
+	    		    "Italian" : "Semi di una pigna. Possono essere arrostiti per creare uno spuntino leggero."
     },
 	"GAMEPLAY_2FirSeedBunch" : {
                             "English" : "Fir Seeds (Bunch)",
@@ -557,7 +557,7 @@
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Se pueden asar y comer como aperitivo.",
                             "German" :  "Die Samen eines Tannenbaumes. Können für einen leichten Snack geröstet werden.",
                             "Turkish" : "Köknar ağacının tohumları. Hafif bir atıştırmalık yapmak için kavrulabilir.",
-	    		    "Italian" : "Semi di una pigna. Possono essere arrostite per creare uno spuntino leggero."
+	    		    "Italian" : "Semi di una pigna. Possono essere arrostiti per creare uno spuntino leggero."
     },
 	"GAMEPLAY_3FirConeSeedsSingle" : {
                             "English" : "heap.",
@@ -578,28 +578,28 @@
 							"Spanish (Spain)" : "Piñones asados",
                             "German" :  "Geröstete Tannensamen",
                             "Turkish" : "Kavrulmuş Köknar Tohumları",
-			    "Italian" : "Semi della Pigna Arrostite"
+			    "Italian" : "Semi della Pigna Arrostiti"
     },
     "GAMEPLAY_2FirConeSeedsRoastedDescription" : {
                             "English" : "The seeds of a fir tree. Roasted and ready to eat.",
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Asadas y listas para comer.",
                             "German" :  "Die Samen eines Tannenbaumes. Geröstet und fertig zum Essen.",
                             "Turkish" : "Köknar ağacının tohumları. Kavrulmuş ve yenmeye hazır hale getirilmiş."
-	    		    "Italian" : "Semi di una pigna. Arrostite e pronte per il consumo."
+	    		    "Italian" : "Semi di una pigna. Arrostiti e pronti per il consumo."
     },
 	"GAMEPLAY_1FirSeedBunchRoasted" : {
                             "English" : "Roasted Fir Seeds (Bunch)",
 							"Spanish (Spain)" : "Piñones asados (Puñado)",
                             "German" :  "Geröstete Tannensamen (Bündel)",
                             "Turkish" : "Kavrulmuş Köknar Tohumları (Bir Demet)",
-			    "Italian" : "Semi della Pigna Arrostite (Mucchio)"
+			    "Italian" : "Semi della Pigna Arrostiti (Mucchio)"
 	},
     "GAMEPLAY_1FirSeedBunchRoastedDescription" : {
                             "English" : "The seeds of a fir tree. Roasted and ready to eat.",
 							"Spanish (Spain)" : "Piñones procedentes de un abeto. Asadas y listas para comer.",
                             "German" :  "Die Samen eines Tannenbaumes. Geröstet und fertig zum Essen.",
                             "Turkish" : "Köknar ağacının tohumları. Kavrulmuş ve yenmeye hazır hale getirilmiş",
-	    		    "Italian" : "Semi di una pigna. Arrostite e pronte per il consumo."
+	    		    "Italian" : "Semi di una pigna. Arrostiti e pronti per il consumo."
     },
 	"GAMEPLAY_2FirConeSeedsRoastedSingle" : {
                             "English" : "heap.",
