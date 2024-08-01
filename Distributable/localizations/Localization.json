@@ -25,7 +25,7 @@
 							"Spanish (Spain)" : "Carne obtenida de un cuervo. No es precisamente un menú de cuatro platos, y no es muy agradable, pero es comida. No te lo comas crudo.",
                             "German" :  "Fleisch von einer Krähe. Nicht gerade ein Vier-Gänge-Menü und nicht sehr angenehm, aber es ist Essen. Nicht roh essen.",
                             "Turkish" : "Bir kargadan hasat edilen et. Tam olarak dört kişilik bir yemek değil ve çok hoşta değil, ama bu bir yemek. Çiğ yemeyin.",
-	                    "Italian" : "Carne raccolta da un corvo. Non è un pasto a quattro portate, e non è molto piacevole, ma è cibo. Non mangiarla crudo."
+	                    "Italian" : "Carne raccolta da un corvo. Non è un pasto a quattro portate, e non è molto piacevole, ma è cibo. Non mangiarla cruda."
     },
     "GAMEPLAY_BirdMeatCooked" : {
                             "English" : "Roasted Crow Meat",
@@ -277,7 +277,7 @@
 							"Spanish (Spain)" : "Huevo de un ave sin identificar. Cocido y listo para comer.",
                             "German":  "Das Ei eines unbekannten Vogels. Gekocht und fertig zum Essen.",
                             "Turkish" : "Kimliği belirsiz bir kuşun yumurtası. Haşlanmış ve yemeye hazır.",
-	    		    "Italian" : "L'uovo di un uccello non identificato. Bollito e pronto ad essere consumato."
+	    		    "Italian" : "L'uovo di un uccello non identificato. Bollito e pronto per essere consumato."
     },		
 	"GAMEPLAY_OrcaCarcass1" : {
                             "English" : "Orca Carcass",
@@ -375,7 +375,7 @@
 							"Spanish (Spain)" : "Aceite obtenido de la grasa de una ballena. Rellena tu lámpara con esto.",
                             "German" :  "Aus Speck gewonnenes Öl. Befüllen Sie damit Ihre Laterne.",
                             "Turkish" : "Katil Balina yağından elde edilen sıvı yağ. Lambanızı bununla doldurun.",
-	    		    "Italian" : "Olio ricevuto dal grasso. Con questo puoi rifornire le tue lanterne"
+	    		    "Italian" : "Olio ricevuto dal grasso. Con questo puoi rifornire la tua lanterna."
     },
 	"GAMEPLAY_OrcaMeatRaw" : {
                             "English" : "Raw Orca Meat",
@@ -445,7 +445,7 @@
 							"Spanish (Spain)" : "Una colmena de abejas congelada, algo dificil de ver estos días. Quizás aún le puedas sacar algo de valor. Parece abandonado, y no parece que las abejas vayan a volver pronto.",
                             "German" :  "Ein gefrorener Bienenstock, heutzutage ein seltener Anblick. Vielleicht kann man etwas Brauchbares daraus machen. Sieht verlassen aus und die Bienen werden wohl nicht so schnell zurückkommen.",
                             "Turkish" : "Donmuş bir arı kovanı, bugünlerde nadir görülen bir manzara. Belki yine de ondan işe yarar bir şeyler alabilirsin. Terk edilmiş görünüyor ve arılar yakın zamanda geri gelmeyecek.",
-	    		    "Italian" : "Un alveare congelato, e raro trovarlo in questi giorni. Forse potresti ancora ricavare qualcosa da esso. Sembra abbandonato, e le api non ritorneranno ormai."
+	    		    "Italian" : "Un alveare congelato, è raro trovarlo in questi giorni. Forse potresti ancora ricavare qualcosa da esso. Sembra abbandonato, e le api non ritorneranno ormai."
     },
 	"GAMEPLAY_BeeHarvestedHoney" : {
                             "English" : "Honey",
@@ -515,7 +515,7 @@
 							"Spanish (Spain)" : "Piña de abeto a la que se le han extraido las semillas. Puede usarse como combustible para fogatas.",
                             "German" :  "Ein Zapfen eines Tannenbaumes, dessen Samen entfernt wurden. Kann als nützlicher Brennstoff verwendet werden.",
                             "Turkish" : "Tohumları çıkarılmış bir köknar ağacının kozalağı. Ateş yakmak için kullanılabilir.",
-	    		    "Italian" : "Una pigna da un abete, da cui i semi sono stati tolti. Può essere usato come combustibile per fuoco."
+	    		    "Italian" : "Una pigna da un abete, a cui i semi sono stati tolti. Può essere usato come combustibile per fuoco."
     },
 	"GAMEPLAY_1FirConeFuelSingle" : {
                             "English" : "cone.",
@@ -536,7 +536,7 @@
 							"Spanish (Spain)" : "Piñones",
                             "German" :  "Tannensamen",
                             "Turkish" : "Köknar Ağacı Tohumları",
-	    		    "Italian" : "Semi della Pigna"
+	    		    "Italian" : "Semi di Pigna"
     },
     "GAMEPLAY_3FirConeSeedsDescription" : {
                             "English" : "The seeds of a fir tree. Can be roasted to make a light snack.",
@@ -550,7 +550,7 @@
 							"Spanish (Spain)" : "Piñones (Montón)",
                             "German" :  "Tannensamen (Bündel)",
                             "Turkish" : "Köknar Tohumları (Bir Demet)",
-			    "Italian" : "Semi della Pigna (Mucchio)"
+			    "Italian" : "Semi di Pigna (Mucchio)"
 	},
     "GAMEPLAY_2FirSeedBunchDescription" : {
                             "English" : "The seeds of a fir tree. Can be roasted to make a light snack.",
@@ -578,7 +578,7 @@
 							"Spanish (Spain)" : "Piñones asados",
                             "German" :  "Geröstete Tannensamen",
                             "Turkish" : "Kavrulmuş Köknar Tohumları",
-			    "Italian" : "Semi della Pigna Arrostiti"
+			    "Italian" : "Semi di Pigna Arrostiti"
     },
     "GAMEPLAY_2FirConeSeedsRoastedDescription" : {
                             "English" : "The seeds of a fir tree. Roasted and ready to eat.",
@@ -592,7 +592,7 @@
 							"Spanish (Spain)" : "Piñones asados (Puñado)",
                             "German" :  "Geröstete Tannensamen (Bündel)",
                             "Turkish" : "Kavrulmuş Köknar Tohumları (Bir Demet)",
-			    "Italian" : "Semi della Pigna Arrostiti (Mucchio)"
+			    "Italian" : "Semi di Pigna Arrostiti (Mucchio)"
 	},
     "GAMEPLAY_1FirSeedBunchRoastedDescription" : {
                             "English" : "The seeds of a fir tree. Roasted and ready to eat.",
@@ -641,7 +641,7 @@
 							"Spanish (Spain)" : "Roca de sal, minada por toda Gran Oso.",
                             "German" : "Salzstein, auf Großer Bär abgebaut.",
                             "Turkish" : "Great Bear madeninden çıkarılan Kaya tuzu.",
-	    		    "Italian" : "Roccia di sale, estratta dalle miniere intorno a Great Bear."
+	    		    "Italian" : "Roccia di sale, estratta dalle miniere in tutto il Great Bear."
     },
 	"GAMEPLAY_CoalChunk" : {
                             "English" : "Coal Chunk",
