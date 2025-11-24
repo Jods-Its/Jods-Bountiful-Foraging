@@ -293,9 +293,12 @@ namespace Bountiful_Foraging
         {
             private static void Prefix(CookingPotItem __instance)
             {
-                if(__instance.m_GearItemBeingCooked.DisplayName.Contains("Stew"))
+                if (__instance.IsCookingSomething() && __instance.m_GearItemBeingCooked != null)
                 {
-                    __instance.m_GearItemBeingCooked.m_Cookable.m_CanBePickedUpWhileCooking = false;
+                    if (__instance.m_GearItemBeingCooked.DisplayName.Contains("Stew"))
+                    {
+                        __instance.m_GearItemBeingCooked.m_Cookable.m_CanBePickedUpWhileCooking = false;
+                    }
                 }
             }
         }
