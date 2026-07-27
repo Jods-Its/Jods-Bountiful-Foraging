@@ -4,6 +4,12 @@
 
 > A mod for The Long Dark, by Hinterland Studios, that adds new ways to find food and useful materials in the wild. Open to suggestions!
 
+## DISCLAIMER
+This software, including its code, 3D assets and 2D textures is **100% human made**. **It may not be used to train LLM's datasets, and its not condoned its modification through one**. 
+**It may not be used for commercial purposes**, and, until the author haven't freed all of the files, **derivative work on this software may only be made under direct and undoubted approval**.
+
+**This software and its author are not associated with neither The Long Dark nor Hinterland Studios Inc in any way, shape or form.**
+
 ## Usage
 
 ![image](https://github.com/Jods-Its/Jods-Bountiful-Foraging/blob/main/IMGS/screen_8778c595-d251-4270-b0ac-bb940a9aaac8_hi.png)
