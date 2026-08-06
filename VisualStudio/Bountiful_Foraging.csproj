@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <PropertyGroup>
+    <!--This needs to be changed for the mod to compile.-->
+    <TheLongDarkPath>C:\Program Files (x86)\Steam\steamapps\content\app_305620\depot_305621</TheLongDarkPath>
+  </PropertyGroup>
+
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
 
@@ -27,5 +32,9 @@
     <PackageReference Include="STBlade.Modding.TLD.ModComponent" Version="6.2.3" />
     <PackageReference Include="STBlade.Modding.TLD.ModSettings" Version="1.9.0" />
 	</ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(TheLongDarkPath)/Mods" />
+  </Target>
 </Project>
 

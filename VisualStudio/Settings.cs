@@ -33,6 +33,11 @@ namespace Bountiful_Foraging
         [Description("Prevents orca carcasses from spawning. Default = No")]
         public bool noNest = false;
 
+        [Name("Nest Spawn Chance")]
+        [Description("Tweaks the chance of nests spawn. Nests are part of the sticks spawners. Default 0.06%")]
+        [Slider(0.03f, 1f, 30, NumberFormat = "{0:0.##}%")]
+		public float nestChance = 0.06f;
+
         [Name("Disable Fir Cones")]
         [Description("Prevents fir cones from spawning. Default = No")]
         public bool noCone = false;
@@ -57,3 +62,4 @@ namespace Bountiful_Foraging
         public bool activeBear = true;
     }
 }
+
