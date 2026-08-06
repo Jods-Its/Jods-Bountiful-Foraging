@@ -288,6 +288,21 @@ namespace Bountiful_Foraging
             }
         }
 
+        [HarmonyPatch(typeof(CookingPotItem), "StartInspectMode")]
+        internal class StewDiscard
+        {
+            private static void Prefix(CookingPotItem __instance)
+            {
+                if (__instance.IsCookingSomething() && __instance.m_GearItemBeingCooked != null)
+                {
+                    if (__instance.m_GearItemBeingCooked.DisplayName.Contains("Stew"))
+                    {
+                        __instance.m_GearItemBeingCooked.m_Cookable.m_CanBePickedUpWhileCooking = false;
+                    }
+                }
+            }
+        }
+
     }
 
 }
