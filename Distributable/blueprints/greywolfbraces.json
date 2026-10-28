@@ -1,0 +1,17 @@
+{
+    "Name": "GreyWolfBraces",
+    "RequiredGear": [{"Item": "GEAR_GreyWolfPeltDried", "Count": 2}, {"Item": "GEAR_MooseHideDried", "Count": 1}, {"Item": "GEAR_GutDried", "Count": 3}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_GreyWolfSkinBraces",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1200,
+    "CraftingAudio": "PLAY_CRAFTINGLEATHERHIDE",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

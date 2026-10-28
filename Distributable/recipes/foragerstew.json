@@ -1,0 +1,34 @@
+{
+    "RecipeName": "GAMEPLAY_CookedForagerStew",
+    "RecipeDescription": "GAMEPLAY_CookedForagerStewDescription",
+    "RecipeIcon": "ico_GearItem__CookedForagerStew",
+    "RequiredSkillLevel": 3,
+    "AllowedCookingPots": ["GEAR_CookingPot"],
+    "BlueprintData": {
+        "Name": "REC_ForagerStew",
+        "RequiredGear": [{
+                "Item": "GEAR_OrcaMeatRaw",
+                "Quantity": 0.5,
+				"Units": "Kilograms"
+            },
+			{
+                "Item": "GEAR_Potato",
+                "Count": 1
+            },
+			{
+                "Item": "GEAR_2FirSeedBunch",
+                "Count": 2
+            },
+			{
+                "Item": "GEAR_Carrot",
+                "Count": 2
+            }
+        ],
+		"RequiredPowder":[{"Powder":"POWDER_Flour","QuantityInKilograms":0.05}],
+		"RequiredLiquid":[{"Liquid": "LIQUID_Broth","VolumeInLitres": 0.4}],
+        "CraftedResult": "GEAR_UncookedForagerStew",
+        "CraftedResultCount": 1,
+        "DurationMinutes": 30,
+        "CraftingAudio": "PLAY_CRAFTINGSTEWMEAT"
+    }
+}

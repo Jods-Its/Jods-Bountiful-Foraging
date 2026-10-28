@@ -1,0 +1,17 @@
+{
+    "Name": "CryptidHeadWear",
+    "RequiredGear": [{"Item": "GEAR_SkullStag", "Count": 1}, {"Item": "GEAR_GutDried", "Count": 4}, {"Item": "GEAR_Bones", "Count": 6}, {"Item": "GEAR_WolfPeltDried", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_CryptidHeadWear",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 600,
+    "CraftingAudio": "PLAY_CRAFTINGLEATHERHIDE",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

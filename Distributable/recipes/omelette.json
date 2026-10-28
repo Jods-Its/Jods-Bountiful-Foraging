@@ -1,0 +1,21 @@
+{
+    "RecipeName": "GAMEPLAY_CookedOmelette",
+    "RecipeDescription": "GAMEPLAY_CookedOmeletteDescription",
+    "RecipeIcon": "ico_GearItem__CookedOmelette",
+    "RequiredSkillLevel": 1,
+    "AllowedCookingPots": ["GEAR_Skillet"],
+    "BlueprintData": {
+        "Name": "REC_Omelette",
+        "RequiredGear": [{
+                "Item": "GEAR_BirdEggRaw",
+                "Count": 2
+            }
+        ],
+		"RequiredPowder":[{"Powder":"POWDER_Salt","QuantityInKilograms":0.01}],
+		"RequiredLiquid":[{"Liquid": "LIQUID_CookingOil","VolumeInLitres": 0.05}],
+        "CraftedResult": "GEAR_UncookedOmelette",
+        "CraftedResultCount": 1,
+        "DurationMinutes": 5,
+        "CraftingAudio": "PLAY_CRAFTINGPANCAKE"
+    }
+}

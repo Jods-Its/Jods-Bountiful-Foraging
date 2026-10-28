@@ -1,0 +1,21 @@
+{
+    "RecipeName": "Bone Broth",
+    "RecipeDescription": "GAMEPLAY_BrothDescription",
+    "RecipeIcon": "ico_GearItem__Broth",
+    "RequiredSkillLevel": 1,
+    "AllowedCookingPots": ["GEAR_CookingPot"],
+    "BlueprintData": {
+        "Name": "REC_BoneBroth",
+        "RequiredGear": [{
+                "Item": "GEAR_Bones",
+                "Count": 3
+            }
+        ],
+		"RequiredPowder":[{"Powder":"POWDER_Salt","QuantityInKilograms":0.01}],
+		"RequiredLiquid":[{"Liquid":"LIQUID_WaterPotable","VolumeInLitres":1.5}],
+        "CraftedResult": "GEAR_UncookedBroth",
+        "CraftedResultCount": 1,
+        "DurationMinutes": 5,
+        "CraftingAudio": "PLAY_CRAFTINGBROTHMEAT"
+    }
+}

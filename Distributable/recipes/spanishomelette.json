@@ -1,0 +1,25 @@
+{
+    "RecipeName": "GAMEPLAY_CookedSpanishOmelette",
+    "RecipeDescription": "GAMEPLAY_CookedSpanishOmeletteDescription",
+    "RecipeIcon": "ico_GearItem__CookedSpanishOmelette",
+    "RequiredSkillLevel": 3,
+    "AllowedCookingPots": ["GEAR_Skillet"],
+    "BlueprintData": {
+        "Name": "REC_SpanishOmelette",
+        "RequiredGear": [{
+                "Item": "GEAR_BirdEggRaw",
+                "Count": 3
+            },
+			{
+                "Item": "GEAR_Potato",
+                "Count": 2
+            }
+        ],
+		"RequiredPowder":[{"Powder":"POWDER_Salt","QuantityInKilograms":0.02}],
+		"RequiredLiquid":[{"Liquid": "LIQUID_CookingOil","VolumeInLitres": 0.1}],
+        "CraftedResult": "GEAR_UncookedSpanishOmelette",
+        "CraftedResultCount": 1,
+        "DurationMinutes": 20,
+        "CraftingAudio": "PLAY_CRAFTINGBROTHVEGETABLE"
+    }
+}

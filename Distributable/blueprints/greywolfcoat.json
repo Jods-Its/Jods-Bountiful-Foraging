@@ -1,0 +1,17 @@
+{
+    "Name": "GreyWolfCoat",
+    "RequiredGear": [{"Item": "GEAR_GreyWolfPeltDried", "Count": 4}, {"Item": "GEAR_GutDried", "Count": 4}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_GreyWolfSkinCoat",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 2000,
+    "CraftingAudio": "PLAY_CRAFTINGLEATHERHIDE",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
