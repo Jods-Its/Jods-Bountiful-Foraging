@@ -1,0 +1,76 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_CookedSpanishOmelette",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_CookedSpanishOmeletteDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.35,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvMeatSmall",
+                            "PutBackAudio" : "Play_SndInvMeatSmall",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.8,
+                            "InspectAngles" : [45, -180, 0],
+                            "InspectOffset" : [0, 0, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+							
+                            "Cooking" : true,
+                            "CookingMinutes" : 5,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 20,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "PLAY_FRYINGLIGHT",
+                            "StartCookingAudio" : "PLAY_PUTINPOTMEAT",
+
+                            "DaysToDecayOutdoors" : 15,
+                            "DaysToDecayIndoors" : 5,
+                            "Calories" : 650,
+                            "Servings" : 1,
+                            "EatingTime" : 5,
+                            "EatingAudio" : "Play_EatingMeat",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -5,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 60,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : true,
+                            "InstantColdChange" : 0,
+                            "ColdFactorMinutes" : 30,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45,
+							"VitaminC": 24
+                        }
+}

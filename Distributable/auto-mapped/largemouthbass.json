@@ -1,0 +1,78 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_LargeMouthBass",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_LargeMouthBassDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 8.0,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 5,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvMeatLarge",
+                            "PutBackAudio" : "Play_SndInvMeatLarge",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 1.0,
+                            "InspectAngles" : [45, -90, 90],
+                            "InspectOffset" : [0, 0, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "Placed",
+                            "InspectModel" : "Inspect",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 0,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 0,
+                            "Type" : "Meat",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 60,
+                            "DaysToDecayIndoors" : 10,
+                            "Calories" : 2300,
+                            "Servings" : 1,
+                            "EatingTime" : 6,
+                            "EatingAudio" : "Play_EatingMeat",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -20,
+
+                            "FoodPoisoning" : 60,
+                            "FoodPoisoningLowCondition" : 100,
+                            "ParasiteRiskIncrements" : [1.0, 1.5, 2.0],
+
+                            "Natural" : true,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : true,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        },
+    "ModScentBehaviour" : {
+                            "ScentCategory" : "RAW_MEAT"
+                          }								
+}

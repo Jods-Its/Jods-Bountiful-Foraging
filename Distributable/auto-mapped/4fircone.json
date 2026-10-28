@@ -3,7 +3,7 @@
                                 "DisplayNameLocalizationId" : "GAMEPLAY_4FirCone",
                                 "DescriptionLocalizatonId" : "GAMEPLAY_4FirConeDescription",
                                 "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.1,
+                                "WeightKG": 0.12,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",

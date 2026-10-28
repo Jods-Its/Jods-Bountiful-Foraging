@@ -1,10 +1,10 @@
 {
     "ModBodyHarvestComponent": {
-                                "DisplayNameLocalizationId" : "GAMEPLAY_OrcaCarcass2",
-                                "DescriptionLocalizatonId" : "GAMEPLAY_OrcaCarcass2Description",
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OrcaCarcass",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OrcaCarcass",
                                 "InventoryActionLocalizationId" : "",
                                 "WeightKG": 1.0,
-                                "DaysToDecay" : 30,
+                                "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
                                 "InventoryCategory" : "Material",
@@ -21,17 +21,22 @@
                                 "InspectModel" : "",
 
                                 "CanCarry" : false,
-                                "HarvestAudio" : "",
+                                "HarvestAudio" : "Play_HarvestingMeatLarge",
                                 "GutPrefab" : "GEAR_Gut",
-                                "GutQuantity" : 1,
+                                "GutQuantity" : 10,
                                 "GutWeightKgPerUnit" : 0.15,
-                                "HidePrefab" : "GEAR_CrowFeather",
-                                "HideQuantity" : 1,
-                                "HideWeightKgPerUnit" : 0.01,
-                                "MeatPrefab" : "GEAR_RawMeatRabbit",
-                                "MeatAvailableMinKG" : 0.1,
-                                "MeatAvailableMaxKG" : 0.5
+                                "HidePrefab" : "GEAR_OrcaFat",
+                                "HideQuantity" : 2,
+                                "HideWeightKgPerUnit" : 2.0,
+                                "MeatPrefab" : "GEAR_OrcaMeatRaw",
+                                "MeatAvailableMinKG" : 20.0,
+                                "MeatAvailableMaxKG" : 40.0
                             },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_OrcaCarcassRavaged2",
+                            "EvolveHours" : 48,
+                            "IndoorsOnly" : false
+                        },							
     "ModScentBehaviour" : {
                             "ScentCategory" : "QUARTER"
                           }									

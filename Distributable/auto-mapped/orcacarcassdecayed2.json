@@ -1,0 +1,43 @@
+{
+    "ModBodyHarvestComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OrcaCarcassDecayed",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OrcaCarcassDecayed",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "CanCarry" : false,
+                                "HarvestAudio" : "Play_HarvestingMeatLarge",
+                                "GutPrefab" : "GEAR_Gut",
+                                "GutQuantity" : 2,
+                                "GutWeightKgPerUnit" : 0.15,
+                                "HidePrefab" : "GEAR_OrcaFat",
+                                "HideQuantity" : 0,
+                                "HideWeightKgPerUnit" : 2.0,
+                                "MeatPrefab" : "GEAR_OrcaMeatRaw",
+                                "MeatAvailableMinKG" : 5.0,
+                                "MeatAvailableMaxKG" : 7.0
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_OrcaBones2",
+                            "EvolveHours" : 72,
+                            "IndoorsOnly" : false
+                        },	
+    "ModScentBehaviour" : {
+                            "ScentCategory" : "QUARTER"
+                          }									
+}

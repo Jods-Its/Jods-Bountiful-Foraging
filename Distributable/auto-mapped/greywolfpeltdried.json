@@ -1,0 +1,23 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_GreyWolfPelt",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_GreyWolfPeltDriedDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVLEATHERHIDEBPICKUP",
+                                "PutBackAudio" : "PLAY_SNDINVLEATHERHIDEBPUTBACK",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1,
+                                "InspectAngles" : [-270, 0, -180],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.4, 0.4, 0.4],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }		
+}

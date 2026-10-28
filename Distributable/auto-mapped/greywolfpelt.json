@@ -1,0 +1,29 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_GreyWolfPelt",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_GreyWolfPeltDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "PLAY_SNDINVMEATLARGE",
+                                "PutBackAudio" : "PLAY_SNDINVMEATLARGE",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1,
+                                "InspectAngles" : [-270, 0, -180],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.4, 0.4, 0.4],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModEvolveBehaviour" : {
+                            "TargetItemName" : "GEAR_GreyWolfPeltDried",
+                            "EvolveHours" : 192,
+                            "IndoorsOnly" : true
+                        }
+							
+}

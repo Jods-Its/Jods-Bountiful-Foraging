@@ -13,8 +13,8 @@
                             "StowAudio" : "Play_InventoryStow",
                             "WornOutAudio" : "",
                             "InspectOnPickup" : true,
-                            "InspectDistance" : 0.4,
-                            "InspectAngles" : [0, 0, 0],
+                            "InspectDistance" : 0.5,
+                            "InspectAngles" : [0, 90, 0],
                             "InspectOffset" : [0, -0.05, 0],
                             "InspectScale" :  [1, 1, 1],
                             "NormalModel" : "",
@@ -38,6 +38,7 @@
                             "EatingAudio" : "Play_OpenPeanutButter",
                             "EatingPackagedAudio" : "",
                             "ThirstEffect" : -5,
+							"VitaminC": 3,
 
                             "FoodPoisoning" : 0,
                             "FoodPoisoningLowCondition" : 35,

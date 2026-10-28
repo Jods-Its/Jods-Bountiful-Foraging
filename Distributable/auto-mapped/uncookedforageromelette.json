@@ -1,0 +1,75 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_UncookedOmelette",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_UncookedOmeletteDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.2,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "PLAY_SNDINVCOOKEDSTEWPICKUP",
+                            "PutBackAudio" : "PLAY_SNDINVCOOKEDSTEWPUTBACK",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.5,
+                            "InspectAngles" : [-45, 0, 0],
+                            "InspectOffset" : [0, 0, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+							
+                            "Cooking" : true,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "GEAR_CookedForagerOmelette",
+                            "BurntMinutes" : 10,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "PLAY_FRYINGLIGHT",
+                            "StartCookingAudio" : "PLAY_PUTINPOTSTEW",
+
+                            "DaysToDecayOutdoors" : 10,
+                            "DaysToDecayIndoors" : 2,
+                            "Calories" : 200,
+                            "Servings" : 1,
+                            "EatingTime" : 2,
+                            "EatingAudio" : "PLAY_SLURPING1",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : 0,
+
+                            "FoodPoisoning" : 80,
+                            "FoodPoisoningLowCondition" : 100,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : true,
+                            "Raw" : true,
+                            "Drink" : true,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}
