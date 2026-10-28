@@ -3,6 +3,7 @@ using Bountiful_Foraging;
 using Il2Cpp;
 using UnityEngine;
 using System.Reflection;
+using UnityEngine.AddressableAssets;
 
 namespace Bountiful_Foraging;
 internal sealed class Implementations : MelonMod
@@ -10,6 +11,9 @@ internal sealed class Implementations : MelonMod
     private static List<string> cookableGear = new List<string>();
     private static bool loadedCookingTex;
     private static Material vanillaLiquidMaterial;
+
+    public static GameObject cookable1 = Addressables.LoadAssetAsync<GameObject>("GEAR_BirdEggRaw").WaitForCompletion();
+
 
     public static AssetBundle bundleBFIcons;
     public override void OnInitializeMelon()
@@ -45,11 +49,10 @@ internal sealed class Implementations : MelonMod
 
                 for (int i = 0; i < cookableGear.Count; i++)
                 {
-                    potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
+                    potGear = Addressables.LoadAssetAsync<GameObject>("GEAR_" + cookableGear[i]).WaitForCompletion();
 
-                    if (potGear == null) continue;
+                    if (potGear == null) continue;              
                     Texture? tex = potGear.transform.Find("POTtexture")?.GetComponent<MeshRenderer>()?.material?.mainTexture;
-
                     if (tex == null)
                     {
                         MelonLogger.Msg(System.ConsoleColor.Red, "Jods, you forgor 💀");
@@ -63,21 +66,27 @@ internal sealed class Implementations : MelonMod
                     potMat.SetTexture("_Main_texture2", tex);
 
                     potGear.GetComponent<Cookable>().m_CookingPotMaterialsList = new Material[1] { potMat };
+
+                    MelonLogger.Msg(System.ConsoleColor.Yellow, potGear.name);
+                    MelonLogger.Msg(System.ConsoleColor.Yellow, tex.name);
+                    MelonLogger.Msg(System.ConsoleColor.Yellow, potMat.name);
                 }
 
                 loadedCookingTex = true;
             }
         }
+        
 
     }
     public static Material InstantiateLiquidMaterial()
     {
-        if (!vanillaLiquidMaterial)
+        if (!vanillaLiquidMaterial) 
         {
-            vanillaLiquidMaterial = new Material(GearItem.LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
+            vanillaLiquidMaterial = new Material(Addressables.LoadAssetAsync<GameObject>("GEAR_CoffeeCup").WaitForCompletion().GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
 
             vanillaLiquidMaterial.name = "Liquid";
         }
+        MelonLogger.Msg(System.ConsoleColor.Yellow, "Liquid found");
         return new Material(vanillaLiquidMaterial);
     }
     public static void LoadEmbeddedAssetBundle()

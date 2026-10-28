@@ -60,7 +60,7 @@ namespace Bountiful_Foraging
                 }
             }
         }
-
+        /*
         [HarmonyPatch(typeof(GearItem), nameof(GearItem.Awake))]
         private static class SetFishFoodWeight
         {
@@ -75,7 +75,7 @@ namespace Bountiful_Foraging
                     }
                 }
             }
-        }
+        }*/
 
         [HarmonyPatch(typeof(GearItem), nameof (GearItem.Awake))]
         private static class DoThingsToOrcaCarcasses
@@ -183,7 +183,7 @@ namespace Bountiful_Foraging
                     if (__instance != null && __instance.name.ToLowerInvariant().Contains("grey"))
                     {
                         __instance.m_HidePrefab = BFUtils.pelt;
-                        __instance.m_HideWeightKgPerUnit = ItemWeight.FromKilograms(1);
+                        __instance.m_HideWeightKgPerUnit = BFUtils.peltWeight;
                     }
                 }              
             }
@@ -249,7 +249,7 @@ namespace Bountiful_Foraging
                 {
                     if (__instance != null && __instance.name.Contains("RadialSpawn_sticks") && BFUtils.nest != null)
                     {
-                        if (Utils.RollChance(0.06f))
+                        if (Utils.RollChance(0.5f))
                         {
                             __result = BFUtils.nest;
                         }

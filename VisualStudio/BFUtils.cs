@@ -3,6 +3,7 @@ using Il2CppTLD.IntBackedUnit;
 using MelonLoader;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
+using ModSettings;
 
 namespace Bountiful_Foraging
 {
@@ -21,6 +22,9 @@ namespace Bountiful_Foraging
         public static GameObject crowFlock = Addressables.LoadAssetAsync<GameObject>("WILDLIFE_CrowFlockForCorpse").WaitForCompletion();
         public static GameObject nest = Addressables.LoadAssetAsync<GameObject>("GEAR_UndefinedNest").WaitForCompletion();
         public static Texture2D orcaIcon;
+
+        public static ItemWeight quarterWeight = new ItemWeight(8);
+        public static ItemWeight peltWeight = new ItemWeight(1);
 
         public static LocalizedString orcaLoc = new LocalizedString();  
         
@@ -109,7 +113,7 @@ namespace Bountiful_Foraging
                 __bodyHarvest.m_CanQuarter = true;
                 __bodyHarvest.m_QuarterAudio = "PLAY_HARVESTINGMEATLARGE";
                 __bodyHarvest.m_QuarterObjectPrefab = BFUtils.quarter;
-                __bodyHarvest.m_QuarterBagMeatCapacity = ItemWeight.FromKilograms(8);
+                __bodyHarvest.m_QuarterBagMeatCapacity = quarterWeight;
                 __bodyHarvest.m_AllowDecay = false;
                 __bodyHarvest.m_StartFrozen = true;
                 __bodyHarvest.m_QuarterDurationMinutes = 300;
@@ -199,7 +203,7 @@ namespace Bountiful_Foraging
             MelonLogger.Msg(System.ConsoleColor.Yellow, "Salting meat...");
             MelonLogger.Msg(System.ConsoleColor.Yellow, "Finding orcas...");
             MelonLogger.Msg(System.ConsoleColor.Yellow, "Placing fir cones...");
-            MelonLogger.Msg(System.ConsoleColor.Green, "Bountiful Foraging v1.2.0 loaded!");
+            MelonLogger.Msg(System.ConsoleColor.Green, "Bountiful Foraging v1.2.3 loaded!");
             Settings.instance.AddToModSettings("Bountiful Foraging");
         }
         public static void BFIconsInitialize()
